@@ -1,0 +1,212 @@
+{
+  "Define research question and scope": {
+    "description": "Establish the fundamental research direction and boundaries. This foundational task sets the scope for all subsequent work and determines the project's focus and feasibility.",
+    "base_value": {
+      "mean": 13,
+      "std": 2.5
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Mental energy": 4
+    },
+    "public_resource_requirements": {
+      "Economic budget": 20
+    }
+  },
+  "Summarize key related work and baselines": {
+    "description": "Conduct a literature review and synthesize existing approaches. This task provides context and establishes baselines for comparison, informing the experimental design.",
+    "base_value": {
+      "mean": 11,
+      "std": 2
+    },
+    "private_resource_requirements": {
+      "Time": 4,
+      "Mental energy": 3
+    },
+    "public_resource_requirements": {
+      "Economic budget": 30,
+      "Shared storage quota": 5
+    }
+  },
+  "Design experiment plan and evaluation protocol": {
+    "description": "Create a comprehensive experimental design including evaluation metrics, data splits, and statistical analysis plans. This task ensures rigorous and reproducible experimental methodology.",
+    "base_value": {
+      "mean": 11,
+      "std": 2
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Mental energy": 4
+    },
+    "public_resource_requirements": {
+      "Economic budget": 25
+    }
+  },
+  "Implement baseline method": {
+    "description": "Develop and code the baseline approaches for comparison. This implementation provides the foundation for evaluating improvements and understanding the problem space.",
+    "base_value": {
+      "mean": 10,
+      "std": 2
+    },
+    "private_resource_requirements": {
+      "Time": 4,
+      "Mental energy": 3,
+      "Local GPU": 1
+    },
+    "public_resource_requirements": {
+      "Cloud computational budget": 80,
+      "Shared storage quota": 3
+    }
+  },
+  "Implement proposed method or key component": {
+    "description": "Develop the core novel contribution of the research project. This task represents the primary technical innovation and is critical for demonstrating the research's value.",
+    "base_value": {
+      "mean": 16,
+      "std": 2.5
+    },
+    "private_resource_requirements": {
+      "Time": 5,
+      "Mental energy": 4,
+      "Local GPU": 2
+    },
+    "public_resource_requirements": {
+      "Cloud computational budget": 120,
+      "Shared storage quota": 5
+    }
+  },
+  "Build data preprocessing / loader pipeline": {
+    "description": "Create robust data handling infrastructure including preprocessing, augmentation, and efficient loading mechanisms. This enables all experimental work and ensures data quality.",
+    "base_value": {
+      "mean": 9,
+      "std": 1.8
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Mental energy": 2,
+      "Context switching tolerance": 2
+    },
+    "public_resource_requirements": {
+      "Cloud computational budget": 40,
+      "Shared storage quota": 8
+    }
+  },
+  "Run sanity checks and debugging experiments": {
+    "description": "Execute preliminary tests to verify implementations work correctly and identify bugs. These checks prevent wasted computational resources and ensure experimental validity.",
+    "base_value": {
+      "mean": 8,
+      "std": 1.5
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2,
+      "Local GPU": 1
+    },
+    "public_resource_requirements": {
+      "Cloud computational budget": 50
+    }
+  },
+  "Run main experiments": {
+    "description": "Execute the primary experimental evaluation that tests the core research hypotheses. These experiments generate the key results that support the paper's main claims.",
+    "base_value": {
+      "mean": 18,
+      "std": 3
+    },
+    "private_resource_requirements": {
+      "Time": 4,
+      "Mental energy": 3,
+      "Local GPU": 2
+    },
+    "public_resource_requirements": {
+      "Cloud computational budget": 180,
+      "Economic budget": 50
+    }
+  },
+  "Run ablation studies": {
+    "description": "Conduct systematic experiments to understand the contribution of different components. Ablation studies provide insights into what makes the method effective and strengthen the analysis.",
+    "base_value": {
+      "mean": 14,
+      "std": 2.2
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Mental energy": 3,
+      "Local GPU": 2
+    },
+    "public_resource_requirements": {
+      "Cloud computational budget": 150
+    }
+  },
+  "Analyze results and produce plots/tables": {
+    "description": "Process experimental outcomes, create visualizations, and compile results into interpretable formats. This analysis transforms raw data into actionable insights and publication-ready figures.",
+    "base_value": {
+      "mean": 11,
+      "std": 2
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Mental energy": 3
+    },
+    "public_resource_requirements": {
+      "Economic budget": 15,
+      "Shared storage quota": 2
+    }
+  },
+  "Draft core paper sections (method/experiments)": {
+    "description": "Write the technical content describing the methodology and experimental setup. These sections form the backbone of the paper and communicate the research contribution clearly.",
+    "base_value": {
+      "mean": 13,
+      "std": 2.5
+    },
+    "private_resource_requirements": {
+      "Time": 4,
+      "Mental energy": 4
+    },
+    "public_resource_requirements": {
+      "Economic budget": 20
+    }
+  },
+  "Revise writing and tighten argumentation": {
+    "description": "Refine the paper's narrative flow, strengthen logical connections, and improve clarity. This revision process elevates the writing quality and ensures the argument is compelling.",
+    "base_value": {
+      "mean": 9,
+      "std": 1.5
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Mental energy": 3
+    },
+    "public_resource_requirements": {
+      "Economic budget": 10
+    }
+  },
+  "Package code and write a reproducibility README": {
+    "description": "Organize codebase, create documentation, and prepare materials for reproducibility. This task enables others to build upon the work and demonstrates research integrity.",
+    "base_value": {
+      "mean": 6,
+      "std": 1.2
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2,
+      "Context switching tolerance": 1
+    },
+    "public_resource_requirements": {
+      "Shared storage quota": 3
+    }
+  },
+  "Prepare slides for an internal presentation": {
+    "description": "Create presentation materials summarizing the research progress and key findings. This communication task helps gather feedback and share insights with collaborators.",
+    "base_value": {
+      "mean": 5,
+      "std": 1
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2
+    },
+    "public_resource_requirements": {
+      "Economic budget": 5
+    }
+  }
+}
+

@@ -1,0 +1,5 @@
+Time
+Mental energy
+Local GPU
+Context switching tolerance
+

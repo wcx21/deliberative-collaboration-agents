@@ -1,0 +1,264 @@
+{
+  "agent_pool": [
+    {
+      "persona_id": "rpc_001",
+      "name": "Systems-minded PhD student (implementation + experiments)",
+      "description": "A PhD student with strong systems engineering background who excels at translating research ideas into working code. They have good stamina for long implementation sessions and can handle complex debugging challenges. Their strength lies in building robust experimental infrastructure and running systematic evaluations. While capable of leadership, they prefer hands-on technical work. They manage computational resources efficiently but sometimes spend extra time perfecting implementation details.",
+      "possible_roles": ["leader", "worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 9,
+          "std": 1.8
+        },
+        "Mental energy": {
+          "mean": 8,
+          "std": 1.6
+        },
+        "Local GPU": {
+          "mean": 3.5,
+          "std": 0.8
+        },
+        "Context switching tolerance": {
+          "mean": 1.2,
+          "std": 0.4
+        }
+      },
+      "efficiency": {
+        "Define research question and scope": 0.9,
+        "Summarize key related work and baselines": 0.8,
+        "Design experiment plan and evaluation protocol": 1.1,
+        "Implement baseline method": 1.3,
+        "Implement proposed method or key component": 1.4,
+        "Build data preprocessing / loader pipeline": 1.3,
+        "Run sanity checks and debugging experiments": 1.4,
+        "Run main experiments": 1.3,
+        "Run ablation studies": 1.2,
+        "Analyze results and produce plots/tables": 0.9,
+        "Draft core paper sections (method/experiments)": 0.9,
+        "Revise writing and tighten argumentation": 0.7,
+        "Package code and write a reproducibility README": 1.1,
+        "Prepare slides for an internal presentation": 0.8
+      },
+      "public_resource_cost_multipliers": {
+        "Cloud computational budget": 0.9,
+        "Shared storage quota": 0.9
+      }
+    },
+    {
+      "persona_id": "rpc_002",
+      "name": "ML experiment specialist (tuning + runs)",
+      "description": "An expert in machine learning experimentation who specializes in hyperparameter tuning, experimental design, and running large-scale training jobs. They have deep knowledge of ML frameworks and optimization techniques. Their primary strength is efficiently managing computational experiments and extracting insights from results. They work best when focused on experimental execution rather than writing or high-level planning. They are highly efficient with computational resources but require significant mental focus.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 8,
+          "std": 1.6
+        },
+        "Mental energy": {
+          "mean": 7,
+          "std": 1.4
+        },
+        "Local GPU": {
+          "mean": 4.5,
+          "std": 0.9
+        },
+        "Context switching tolerance": {
+          "mean": 0.5,
+          "std": 0.2
+        }
+      },
+      "efficiency": {
+        "Define research question and scope": 0.6,
+        "Summarize key related work and baselines": 0.7,
+        "Design experiment plan and evaluation protocol": 1.2,
+        "Implement baseline method": 1.1,
+        "Implement proposed method or key component": 1.2,
+        "Build data preprocessing / loader pipeline": 1.0,
+        "Run sanity checks and debugging experiments": 1.5,
+        "Run main experiments": 1.5,
+        "Run ablation studies": 1.4,
+        "Analyze results and produce plots/tables": 1.1,
+        "Draft core paper sections (method/experiments)": 0.7,
+        "Revise writing and tighten argumentation": 0.5,
+        "Package code and write a reproducibility README": 0.8,
+        "Prepare slides for an internal presentation": 0.6
+      },
+      "public_resource_cost_multipliers": {
+        "Cloud computational budget": 0.75
+      }
+    },
+    {
+      "persona_id": "rpc_003",
+      "name": "Writing-focused researcher (clarity + narrative)",
+      "description": "A researcher with exceptional writing and communication skills who excels at crafting clear narratives and explaining complex technical concepts. They have strong analytical thinking and can synthesize experimental results into compelling arguments. Their primary contribution is transforming technical work into publication-quality writing. While they can understand implementation details, they are less efficient at hands-on coding. They work methodically and require time to develop coherent narratives.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 8,
+          "std": 1.6
+        },
+        "Mental energy": {
+          "mean": 9,
+          "std": 1.8
+        },
+        "Local GPU": {
+          "mean": 0.8,
+          "std": 0.3
+        },
+        "Context switching tolerance": {
+          "mean": 0.5,
+          "std": 0.2
+        }
+      },
+      "efficiency": {
+        "Define research question and scope": 1.3,
+        "Summarize key related work and baselines": 1.4,
+        "Design experiment plan and evaluation protocol": 1.1,
+        "Implement baseline method": 0.6,
+        "Implement proposed method or key component": 0.5,
+        "Build data preprocessing / loader pipeline": 0.5,
+        "Run sanity checks and debugging experiments": 0.6,
+        "Run main experiments": 0.7,
+        "Run ablation studies": 0.7,
+        "Analyze results and produce plots/tables": 1.3,
+        "Draft core paper sections (method/experiments)": 1.5,
+        "Revise writing and tighten argumentation": 1.4,
+        "Package code and write a reproducibility README": 0.9,
+        "Prepare slides for an internal presentation": 1.2
+      },
+      "public_resource_cost_multipliers": {
+        "Economic budget": 0.9
+      }
+    },
+    {
+      "persona_id": "rpc_004",
+      "name": "Reproducibility and tooling engineer (packaging + scripts)",
+      "description": "A software engineer focused on building robust, maintainable research infrastructure. They excel at creating reproducible workflows, writing clean documentation, and developing tools that make research more efficient. Their strength is in systematizing ad-hoc research processes into reliable pipelines. They have good technical skills but prefer tooling and infrastructure work over experimental design. They are efficient with time and create reusable solutions that benefit the whole team.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 8,
+          "std": 1.6
+        },
+        "Mental energy": {
+          "mean": 7,
+          "std": 1.4
+        },
+        "Local GPU": {
+          "mean": 2.0,
+          "std": 0.6
+        },
+        "Context switching tolerance": {
+          "mean": 3.5,
+          "std": 0.8
+        }
+      },
+      "efficiency": {
+        "Define research question and scope": 0.7,
+        "Summarize key related work and baselines": 0.8,
+        "Design experiment plan and evaluation protocol": 0.9,
+        "Implement baseline method": 1.1,
+        "Implement proposed method or key component": 1.0,
+        "Build data preprocessing / loader pipeline": 1.4,
+        "Run sanity checks and debugging experiments": 1.1,
+        "Run main experiments": 1.0,
+        "Run ablation studies": 0.9,
+        "Analyze results and produce plots/tables": 0.9,
+        "Draft core paper sections (method/experiments)": 0.7,
+        "Revise writing and tighten argumentation": 0.6,
+        "Package code and write a reproducibility README": 1.5,
+        "Prepare slides for an internal presentation": 0.8
+      },
+      "public_resource_cost_multipliers": {
+        "Shared storage quota": 0.8
+      }
+    },
+    {
+      "persona_id": "rpc_005",
+      "name": "Careful planner (protocol + risk control)",
+      "description": "A methodical researcher who excels at designing rigorous experimental protocols and identifying potential risks before they become problems. They have strong analytical skills and attention to detail, making them excellent at planning and quality control. Their careful approach prevents costly mistakes but sometimes slows down rapid iteration. They can lead teams effectively by ensuring sound methodology. They are efficient with resources because they plan carefully, but their thoroughness requires more mental energy.",
+      "possible_roles": ["leader", "worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 7,
+          "std": 1.4
+        },
+        "Mental energy": {
+          "mean": 9,
+          "std": 1.8
+        },
+        "Local GPU": {
+          "mean": 1.0,
+          "std": 0.4
+        },
+        "Context switching tolerance": {
+          "mean": 0.8,
+          "std": 0.3
+        }
+      },
+      "efficiency": {
+        "Define research question and scope": 1.2,
+        "Summarize key related work and baselines": 1.1,
+        "Design experiment plan and evaluation protocol": 1.4,
+        "Implement baseline method": 1.0,
+        "Implement proposed method or key component": 1.0,
+        "Build data preprocessing / loader pipeline": 1.1,
+        "Run sanity checks and debugging experiments": 1.3,
+        "Run main experiments": 1.1,
+        "Run ablation studies": 1.2,
+        "Analyze results and produce plots/tables": 1.2,
+        "Draft core paper sections (method/experiments)": 1.0,
+        "Revise writing and tighten argumentation": 1.1,
+        "Package code and write a reproducibility README": 1.2,
+        "Prepare slides for an internal presentation": 0.9
+      },
+      "public_resource_cost_multipliers": {
+        "Cloud computational budget": 0.85
+      }
+    },
+    {
+      "persona_id": "rpc_006",
+      "name": "Fast prototyper (quick iterations)",
+      "description": "A rapid prototyper who thrives on quick iteration cycles and can rapidly test ideas. They have high energy and can switch between tasks fluidly, making them excellent for exploratory work and early-stage development. Their speed comes from willingness to make trade-offs and iterate rather than perfecting upfront. They excel at getting working prototypes quickly but may need refinement by others. They have high capacity for context switching and can work on multiple things simultaneously.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 10,
+          "std": 2.0
+        },
+        "Mental energy": {
+          "mean": 7,
+          "std": 1.4
+        },
+        "Local GPU": {
+          "mean": 1.5,
+          "std": 0.5
+        },
+        "Context switching tolerance": {
+          "mean": 4.5,
+          "std": 0.9
+        }
+      },
+      "efficiency": {
+        "Define research question and scope": 0.8,
+        "Summarize key related work and baselines": 0.7,
+        "Design experiment plan and evaluation protocol": 0.8,
+        "Implement baseline method": 1.2,
+        "Implement proposed method or key component": 1.3,
+        "Build data preprocessing / loader pipeline": 1.2,
+        "Run sanity checks and debugging experiments": 1.1,
+        "Run main experiments": 1.0,
+        "Run ablation studies": 0.9,
+        "Analyze results and produce plots/tables": 0.8,
+        "Draft core paper sections (method/experiments)": 0.7,
+        "Revise writing and tighten argumentation": 0.6,
+        "Package code and write a reproducibility README": 0.9,
+        "Prepare slides for an internal presentation": 0.9
+      },
+      "public_resource_cost_multipliers": {
+        "Cloud computational budget": 1.1
+      }
+    }
+  ]
+}
+

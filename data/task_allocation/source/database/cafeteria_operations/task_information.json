@@ -1,0 +1,216 @@
+{
+  "Prep vegetables batch (wash/chop/portion)": {
+    "description": "Wash, chop, and portion vegetables for use throughout the service period. This foundational prep work enables efficient cooking and ensures consistent quality in all dishes.",
+    "base_value": {
+      "mean": 10,
+      "std": 2
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Physical energy": 3,
+      "Mental energy": 1
+    },
+    "public_resource_requirements": {
+      "Kitchen equipment time": 2,
+      "Sanitation supplies": 1
+    }
+  },
+  "Prep proteins batch (trim/marinate/portion)": {
+    "description": "Prepare protein items by trimming, marinating, and portioning according to recipes. This task requires attention to food safety and portion control standards.",
+    "base_value": {
+      "mean": 13,
+      "std": 2.2
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Physical energy": 2,
+      "Mental energy": 2
+    },
+    "public_resource_requirements": {
+      "Ingredients budget": 120,
+      "Kitchen equipment time": 2,
+      "Sanitation supplies": 2
+    }
+  },
+  "Cook high-demand dish batch (daily special)": {
+    "description": "Prepare the featured daily special that drives customer traffic. This high-volume cooking task requires coordination and timing to meet peak demand.",
+    "base_value": {
+      "mean": 16,
+      "std": 2.5
+    },
+    "private_resource_requirements": {
+      "Time": 4,
+      "Physical energy": 3,
+      "Mental energy": 2,
+      "Multitasking capacity": 2
+    },
+    "public_resource_requirements": {
+      "Ingredients budget": 150,
+      "Kitchen equipment time": 4,
+      "Serving capacity": 3
+    }
+  },
+  "Cook staple base batch (rice/noodles/soup)": {
+    "description": "Prepare foundational staples that accompany many dishes. These base items are essential for service and require consistent quality and proper timing.",
+    "base_value": {
+      "mean": 9,
+      "std": 1.8
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Physical energy": 2,
+      "Mental energy": 1
+    },
+    "public_resource_requirements": {
+      "Ingredients budget": 80,
+      "Kitchen equipment time": 3
+    }
+  },
+  "Assemble grab-and-go items (sandwiches/salads)": {
+    "description": "Construct pre-made items for quick customer pickup. This assembly work requires efficiency and consistency to maintain quality while meeting throughput goals.",
+    "base_value": {
+      "mean": 8,
+      "std": 1.5
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Physical energy": 2,
+      "Mental energy": 1
+    },
+    "public_resource_requirements": {
+      "Ingredients budget": 60,
+      "Serving capacity": 2
+    }
+  },
+  "Peak-hour counter serving and packaging": {
+    "description": "Handle customer orders during busy periods, ensuring fast service and accurate packaging. This front-facing task directly impacts customer satisfaction and revenue.",
+    "base_value": {
+      "mean": 13,
+      "std": 2.5
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Mental energy": 3,
+      "Multitasking capacity": 3
+    },
+    "public_resource_requirements": {
+      "Serving capacity": 5,
+      "Sanitation supplies": 1
+    }
+  },
+  "Online pre-order packing and labeling": {
+    "description": "Prepare and label orders placed in advance through digital platforms. This task requires accuracy in order fulfillment and clear labeling for customer pickup.",
+    "base_value": {
+      "mean": 7,
+      "std": 1.5
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2
+    },
+    "public_resource_requirements": {
+      "Serving capacity": 2,
+      "Sanitation supplies": 1
+    }
+  },
+  "Receive delivery and verify items": {
+    "description": "Inspect incoming ingredient deliveries, verify quantities and quality, and document receipt. This task ensures inventory accuracy and food safety compliance.",
+    "base_value": {
+      "mean": 8,
+      "std": 1.5
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2,
+      "Physical energy": 1
+    },
+    "public_resource_requirements": {
+      "Ingredients budget": 0
+    }
+  },
+  "Store ingredients with FIFO labeling": {
+    "description": "Organize inventory using first-in-first-out principles and proper labeling. This systematic storage prevents waste and ensures food safety through proper rotation.",
+    "base_value": {
+      "mean": 6,
+      "std": 1.2
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2,
+      "Physical energy": 1
+    },
+    "public_resource_requirements": {}
+  },
+  "Temperature log and food safety check": {
+    "description": "Monitor and document food temperatures and safety compliance metrics. This quality control task is critical for health code adherence and preventing foodborne illness.",
+    "base_value": {
+      "mean": 7,
+      "std": 1.8
+    },
+    "private_resource_requirements": {
+      "Time": 1,
+      "Mental energy": 2
+    },
+    "public_resource_requirements": {
+      "Sanitation supplies": 1
+    }
+  },
+  "Deep clean critical stations (grill/prep area)": {
+    "description": "Perform thorough cleaning of high-traffic cooking and preparation areas. This maintenance task ensures hygiene standards and prevents cross-contamination.",
+    "base_value": {
+      "mean": 8,
+      "std": 1
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Physical energy": 3,
+      "Mental energy": 1
+    },
+    "public_resource_requirements": {
+      "Sanitation supplies": 3
+    }
+  },
+  "Restock condiments/utensils/packaging": {
+    "description": "Replenish customer-facing supplies and service materials. This routine task maintains operational readiness and prevents service interruptions.",
+    "base_value": {
+      "mean": 5,
+      "std": 1
+    },
+    "private_resource_requirements": {
+      "Time": 1,
+      "Physical energy": 1
+    },
+    "public_resource_requirements": {
+      "Sanitation supplies": 1
+    }
+  },
+  "Update menu board and allergen tags": {
+    "description": "Modify displayed information to reflect current offerings and safety information. This communication task ensures customers have accurate information about available items.",
+    "base_value": {
+      "mean": 4,
+      "std": 1
+    },
+    "private_resource_requirements": {
+      "Time": 1,
+      "Mental energy": 1
+    },
+    "public_resource_requirements": {
+      "Sanitation supplies": 1
+    }
+  },
+  "End-of-shift closing checklist": {
+    "description": "Complete all closing procedures including cleaning, inventory checks, and equipment shutdown. This systematic task ensures readiness for the next service period.",
+    "base_value": {
+      "mean": 6,
+      "std": 1.2
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2
+    },
+    "public_resource_requirements": {
+      "Sanitation supplies": 1
+    }
+  }
+}
+

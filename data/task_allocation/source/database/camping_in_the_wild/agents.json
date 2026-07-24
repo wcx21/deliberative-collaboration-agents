@@ -1,0 +1,266 @@
+{
+  "agent_pool": [
+    {
+      "persona_id": "camp_001",
+      "name": "Expedition leader (planning-focused)",
+      "description": "An experienced expedition leader who excels at strategic planning and route coordination. They have strong decision-making skills and can assess risks and opportunities effectively. Their leadership ensures the team stays on track and makes informed choices. They are skilled at ration planning, weather assessment, and contingency planning. While capable of physical tasks, their primary value is in high-level coordination and ensuring team safety through careful planning.",
+      "possible_roles": ["leader", "worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 4.5,
+          "std": 1.0
+        },
+        "Mental energy": {
+          "mean": 6,
+          "std": 1.2
+        },
+        "Physical energy": {
+          "mean": 3,
+          "std": 1.0
+        },
+        "Risk tolerance": {
+          "mean": 0.8,
+          "std": 0.25
+        }
+      },
+      "efficiency": {
+        "Scout campsite location (safe and sheltered)": 1.3,
+        "Set up shelter (tent/tarp) and secure it": 1.0,
+        "Collect and purify water": 1.0,
+        "Plan ration usage for the day": 1.5,
+        "Gather firewood (sufficient quantity)": 0.8,
+        "Start and maintain a safe fire": 0.9,
+        "Prepare a hot meal": 0.9,
+        "Check surroundings for hazards and safe routes": 1.2,
+        "Navigate next route segment (map/compass)": 1.3,
+        "Repair minor gear damage (tape/cordage patch)": 0.7,
+        "Organize camp layout and redistribute loads": 1.2,
+        "Night watch short shift / camp security check": 1.1,
+        "Weather assessment and contingency plan": 1.4,
+        "Pack out waste and leave-no-trace cleanup": 1.0
+      },
+      "public_resource_cost_multipliers": {
+        "Food": 0.8,
+        "Tools": 0.9
+      }
+    },
+    {
+      "persona_id": "camp_002",
+      "name": "Strong hiker (physical tasks specialist)",
+      "description": "A physically robust team member with exceptional strength and endurance. They excel at demanding physical tasks like gathering firewood, setting up shelters, and carrying heavy loads. Their stamina allows them to maintain high performance throughout long days. They work best with clear physical objectives and prefer hands-on tasks over planning or detailed analysis. Their physical capacity makes them essential for tasks requiring significant exertion.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 5,
+          "std": 1.1
+        },
+        "Mental energy": {
+          "mean": 3.5,
+          "std": 1.0
+        },
+        "Physical energy": {
+          "mean": 4,
+          "std": 1.1
+        },
+        "Risk tolerance": {
+          "mean": 3.5,
+          "std": 0.7
+        }
+      },
+      "efficiency": {
+        "Scout campsite location (safe and sheltered)": 0.9,
+        "Set up shelter (tent/tarp) and secure it": 1.4,
+        "Collect and purify water": 1.2,
+        "Plan ration usage for the day": 0.6,
+        "Gather firewood (sufficient quantity)": 1.5,
+        "Start and maintain a safe fire": 1.1,
+        "Prepare a hot meal": 1.0,
+        "Check surroundings for hazards and safe routes": 0.8,
+        "Navigate next route segment (map/compass)": 0.7,
+        "Repair minor gear damage (tape/cordage patch)": 0.8,
+        "Organize camp layout and redistribute loads": 1.3,
+        "Night watch short shift / camp security check": 0.9,
+        "Weather assessment and contingency plan": 0.6,
+        "Pack out waste and leave-no-trace cleanup": 1.2
+      },
+      "public_resource_cost_multipliers": {
+        "Tools": 0.9
+      }
+    },
+    {
+      "persona_id": "camp_003",
+      "name": "Survival generalist (balanced skills)",
+      "description": "A well-rounded survivalist with good skills across multiple domains. They can handle fire-making, water purification, shelter setup, and basic navigation competently. Their balanced approach makes them reliable for a wide variety of tasks. They work well independently or as part of a team and can adapt to different situations. While not specialized in any single area, their versatility makes them valuable for maintaining overall camp operations.",
+      "possible_roles": ["leader", "worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 4.5,
+          "std": 1.0
+        },
+        "Mental energy": {
+          "mean": 5,
+          "std": 1.1
+        },
+        "Physical energy": {
+          "mean": 3,
+          "std": 1.0
+        },
+        "Risk tolerance": {
+          "mean": 1.8,
+          "std": 0.5
+        }
+      },
+      "efficiency": {
+        "Scout campsite location (safe and sheltered)": 1.1,
+        "Set up shelter (tent/tarp) and secure it": 1.2,
+        "Collect and purify water": 1.2,
+        "Plan ration usage for the day": 1.0,
+        "Gather firewood (sufficient quantity)": 1.1,
+        "Start and maintain a safe fire": 1.2,
+        "Prepare a hot meal": 1.2,
+        "Check surroundings for hazards and safe routes": 1.1,
+        "Navigate next route segment (map/compass)": 1.0,
+        "Repair minor gear damage (tape/cordage patch)": 1.0,
+        "Organize camp layout and redistribute loads": 1.1,
+        "Night watch short shift / camp security check": 1.0,
+        "Weather assessment and contingency plan": 1.0,
+        "Pack out waste and leave-no-trace cleanup": 1.0
+      },
+      "public_resource_cost_multipliers": {
+        "Tools": 0.9,
+        "Fuel": 0.85
+      }
+    },
+    {
+      "persona_id": "camp_004",
+      "name": "Navigation specialist (map/compass disciplined)",
+      "description": "A skilled navigator with deep expertise in map reading, compass use, and route finding. They have excellent spatial reasoning and can maintain orientation even in challenging terrain. Their navigation skills prevent the team from getting lost and enable efficient route planning. They work methodically and pay close attention to detail. While capable of other tasks, their primary value is in ensuring the team stays on course and makes informed route decisions.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 4,
+          "std": 1.0
+        },
+        "Mental energy": {
+          "mean": 6,
+          "std": 1.2
+        },
+        "Physical energy": {
+          "mean": 2.5,
+          "std": 1.0
+        },
+        "Risk tolerance": {
+          "mean": 0.8,
+          "std": 0.25
+        }
+      },
+      "efficiency": {
+        "Scout campsite location (safe and sheltered)": 1.2,
+        "Set up shelter (tent/tarp) and secure it": 0.8,
+        "Collect and purify water": 0.8,
+        "Plan ration usage for the day": 0.9,
+        "Gather firewood (sufficient quantity)": 0.7,
+        "Start and maintain a safe fire": 0.7,
+        "Prepare a hot meal": 0.8,
+        "Check surroundings for hazards and safe routes": 1.3,
+        "Navigate next route segment (map/compass)": 1.5,
+        "Repair minor gear damage (tape/cordage patch)": 0.7,
+        "Organize camp layout and redistribute loads": 0.9,
+        "Night watch short shift / camp security check": 0.9,
+        "Weather assessment and contingency plan": 1.2,
+        "Pack out waste and leave-no-trace cleanup": 0.8
+      },
+      "public_resource_cost_multipliers": {
+        "Battery power": 0.85,
+        "Tools": 0.8
+      }
+    },
+    {
+      "persona_id": "camp_005",
+      "name": "Gear repair specialist (knots + fixes)",
+      "description": "A skilled craftsperson who excels at maintaining and repairing equipment using available materials. They have extensive knowledge of knots, cordage, and improvised repair techniques. Their ability to fix gear failures prevents minor issues from becoming major problems. They work carefully and methodically, ensuring repairs are durable and reliable. While they can perform other camp tasks, their specialized repair skills are essential for maintaining equipment functionality.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 4,
+          "std": 1.0
+        },
+        "Mental energy": {
+          "mean": 5,
+          "std": 1.1
+        },
+        "Physical energy": {
+          "mean": 2.5,
+          "std": 1.0
+        },
+        "Risk tolerance": {
+          "mean": 0.8,
+          "std": 0.25
+        }
+      },
+      "efficiency": {
+        "Scout campsite location (safe and sheltered)": 0.8,
+        "Set up shelter (tent/tarp) and secure it": 1.3,
+        "Collect and purify water": 0.8,
+        "Plan ration usage for the day": 0.7,
+        "Gather firewood (sufficient quantity)": 0.9,
+        "Start and maintain a safe fire": 0.9,
+        "Prepare a hot meal": 0.8,
+        "Check surroundings for hazards and safe routes": 0.8,
+        "Navigate next route segment (map/compass)": 0.7,
+        "Repair minor gear damage (tape/cordage patch)": 1.5,
+        "Organize camp layout and redistribute loads": 1.1,
+        "Night watch short shift / camp security check": 0.8,
+        "Weather assessment and contingency plan": 0.8,
+        "Pack out waste and leave-no-trace cleanup": 0.9
+      },
+      "public_resource_cost_multipliers": {
+        "Tools": 0.75
+      }
+    },
+    {
+      "persona_id": "camp_006",
+      "name": "Safety-first risk manager (hazard checks)",
+      "description": "A cautious and vigilant team member who specializes in identifying and mitigating risks. They excel at hazard assessment, safety protocols, and preventing accidents before they occur. Their careful approach ensures the team avoids dangerous situations and maintains safe practices. They can lead by enforcing safety standards and making conservative decisions. While their caution may slow some activities, their risk management prevents serious incidents.",
+      "possible_roles": ["leader", "worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 4,
+          "std": 1.0
+        },
+        "Mental energy": {
+          "mean": 6,
+          "std": 1.2
+        },
+        "Physical energy": {
+          "mean": 2.5,
+          "std": 1.0
+        },
+        "Risk tolerance": {
+          "mean": 0.3,
+          "std": 0.15
+        }
+      },
+      "efficiency": {
+        "Scout campsite location (safe and sheltered)": 1.4,
+        "Set up shelter (tent/tarp) and secure it": 1.2,
+        "Collect and purify water": 1.3,
+        "Plan ration usage for the day": 1.1,
+        "Gather firewood (sufficient quantity)": 0.9,
+        "Start and maintain a safe fire": 1.3,
+        "Prepare a hot meal": 1.0,
+        "Check surroundings for hazards and safe routes": 1.5,
+        "Navigate next route segment (map/compass)": 1.1,
+        "Repair minor gear damage (tape/cordage patch)": 0.9,
+        "Organize camp layout and redistribute loads": 1.0,
+        "Night watch short shift / camp security check": 1.3,
+        "Weather assessment and contingency plan": 1.3,
+        "Pack out waste and leave-no-trace cleanup": 1.1
+      },
+      "public_resource_cost_multipliers": {
+        "Tools": 0.9
+      }
+    }
+  ]
+}
+

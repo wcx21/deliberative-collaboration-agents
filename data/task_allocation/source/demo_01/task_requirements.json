@@ -1,0 +1,53 @@
+{
+    "Data Analysis Report": {
+        "agent_0": {
+            "Time": 3,
+            "GPU": 1
+        },
+        "agent_1": {
+            "Time": 4,
+            "GPU": 0
+        },
+        "agent_2": {
+            "Time": 2,
+            "GPU": 0
+        },
+        "public_resources": {
+            "Budget": 100
+        }
+    },
+    "Frontend Development": {
+        "agent_0": {
+            "Time": 2,
+            "GPU": 0
+        },
+        "agent_1": {
+            "Time": 3,
+            "GPU": 0
+        },
+        "agent_2": {
+            "Time": 1,
+            "GPU": 0
+        },
+        "public_resources": {
+            "Budget": 80
+        }
+    },
+    "Backend API Development": {
+        "agent_0": {
+            "Time": 4,
+            "GPU": 0
+        },
+        "agent_1": {
+            "Time": 2,
+            "GPU": 0
+        },
+        "agent_2": {
+            "Time": 3,
+            "GPU": 0
+        },
+        "public_resources": {
+            "Budget": 120
+        }
+    }
+}

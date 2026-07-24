@@ -1,0 +1,15 @@
+Prep vegetables batch (wash/chop/portion)
+Prep proteins batch (trim/marinate/portion)
+Cook high-demand dish batch (daily special)
+Cook staple base batch (rice/noodles/soup)
+Assemble grab-and-go items (sandwiches/salads)
+Peak-hour counter serving and packaging
+Online pre-order packing and labeling
+Receive delivery and verify items
+Store ingredients with FIFO labeling
+Temperature log and food safety check
+Deep clean critical stations (grill/prep area)
+Restock condiments/utensils/packaging
+Update menu board and allergen tags
+End-of-shift closing checklist
+

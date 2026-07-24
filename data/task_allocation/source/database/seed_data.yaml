@@ -1,0 +1,147 @@
+# seed_catalog.yaml
+# Seed-only: names and role eligibility. No numeric parameters.
+# Resources are examples; you may add/remove/rename as needed, but keep consistency within each domain.
+
+version: "1.0"
+
+domains:
+  research_project_collaboration:
+    resources_example:
+      private:
+        - Time
+        - Mental energy
+        - Local GPU
+        - Context switching tolerance
+      public:
+        - Cloud computational budget
+        - Economic budget
+        - Shared storage quota
+    tasks:
+      - Define research question and scope
+      - Summarize key related work and baselines
+      - Design experiment plan and evaluation protocol
+      - Implement baseline method
+      - Implement proposed method or key component
+      - Build data preprocessing / loader pipeline
+      - Run sanity checks and debugging experiments
+      - Run main experiments
+      - Run ablation studies
+      - Analyze results and produce plots/tables
+      - Draft core paper sections (method/experiments)
+      - Revise writing and tighten argumentation
+      - Package code and write a reproducibility README
+      - Prepare slides for an internal presentation
+    agent_persona_pool:
+      - persona_id: rpc_001
+        name: Systems-minded PhD student (implementation + experiments)
+        possible_roles: [leader, worker]
+      - persona_id: rpc_002
+        name: ML experiment specialist (tuning + runs)
+        possible_roles: [worker]
+      - persona_id: rpc_003
+        name: Writing-focused researcher (clarity + narrative)
+        possible_roles: [worker]
+      - persona_id: rpc_004
+        name: Reproducibility and tooling engineer (packaging + scripts)
+        possible_roles: [worker]
+      - persona_id: rpc_005
+        name: Careful planner (protocol + risk control)
+        possible_roles: [leader, worker]
+      - persona_id: rpc_006
+        name: Fast prototyper (quick iterations)
+        possible_roles: [worker]
+
+  cafeteria_operations:
+    resources_example:
+      private:
+        - Time
+        - Mental energy
+        - Physical energy
+        - Multitasking capacity
+      public:
+        - Ingredients budget
+        - Serving capacity
+        - Kitchen equipment time
+        - Sanitation supplies
+    tasks:
+      - Prep vegetables batch (wash/chop/portion)
+      - Prep proteins batch (trim/marinate/portion)
+      - Cook high-demand dish batch (daily special)
+      - Cook staple base batch (rice/noodles/soup)
+      - Assemble grab-and-go items (sandwiches/salads)
+      - Peak-hour counter serving and packaging
+      - Online pre-order packing and labeling
+      - Receive delivery and verify items
+      - Store ingredients with FIFO labeling
+      - Temperature log and food safety check
+      - Deep clean critical stations (grill/prep area)
+      - Restock condiments/utensils/packaging
+      - Update menu board and allergen tags
+      - End-of-shift closing checklist
+    agent_persona_pool:
+      - persona_id: caf_001
+        name: Shift lead (coordinates and prioritizes)
+        possible_roles: [leader, worker]
+      - persona_id: caf_002
+        name: Fast line cook (high stamina)
+        possible_roles: [worker]
+      - persona_id: caf_003
+        name: Detail-oriented prep cook (consistent quality)
+        possible_roles: [worker]
+      - persona_id: caf_004
+        name: Counter service specialist (throughput + labeling)
+        possible_roles: [worker]
+      - persona_id: caf_005
+        name: Food safety stickler (QC mindset)
+        possible_roles: [leader, worker]
+      - persona_id: caf_006
+        name: Cost-conscious planner (reduces waste)
+        possible_roles: [leader, worker]
+
+  camping_in_the_wild:
+    resources_example:
+      private:
+        - Time
+        - Mental energy
+        - Physical energy
+        - Risk tolerance
+      public:
+        - Food
+        - Water
+        - Tools
+        - Fuel
+        - Battery power
+    tasks:
+      - Scout campsite location (safe and sheltered)
+      - Set up shelter (tent/tarp) and secure it
+      - Collect and purify water
+      - Plan ration usage for the day
+      - Gather firewood (sufficient quantity)
+      - Start and maintain a safe fire
+      - Prepare a hot meal
+      - Check surroundings for hazards and safe routes
+      - Navigate next route segment (map/compass)
+      - Repair minor gear damage (tape/cordage patch)
+      - Organize camp layout and redistribute loads
+      - Night watch short shift / camp security check
+      - Weather assessment and contingency plan
+      - Pack out waste and leave-no-trace cleanup
+    agent_persona_pool:
+      - persona_id: camp_001
+        name: Expedition leader (planning-focused)
+        possible_roles: [leader, worker]
+      - persona_id: camp_002
+        name: Strong hiker (physical tasks specialist)
+        possible_roles: [worker]
+      - persona_id: camp_003
+        name: Survival generalist (balanced skills)
+        possible_roles: [leader, worker]
+      - persona_id: camp_004
+        name: Navigation specialist (map/compass disciplined)
+        possible_roles: [worker]
+      - persona_id: camp_005
+        name: Gear repair specialist (knots + fixes)
+        possible_roles: [worker]
+      - persona_id: camp_006
+        name: Safety-first risk manager (hazard checks)
+        possible_roles: [leader, worker]

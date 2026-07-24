@@ -1,0 +1,44 @@
+{
+    "agent_0": {
+        "name": "Worker1",
+        "role": "Worker",
+        "private_resources": {
+            "Time": 10,
+            "GPU": 2
+        },
+        "efficiency": {
+            "Data Analysis Report": 0.8,
+            "Frontend Development": 0.9,
+            "Backend API Development": 0.7
+        },
+        "description": "Specializes in frontend development, has some experience in data analysis"
+    },
+    "agent_1": {
+        "name": "Worker2",
+        "role": "Worker",
+        "private_resources": {
+            "Time": 8,
+            "GPU": 1
+        },
+        "efficiency": {
+            "Data Analysis Report": 0.6,
+            "Frontend Development": 0.8,
+            "Backend API Development": 0.9
+        },
+        "description": "Specializes in backend development, moderate frontend development skills"
+    },
+    "agent_2": {
+        "name": "Leader",
+        "role": "Leader",
+        "private_resources": {
+            "Time": 6,
+            "GPU": 0
+        },
+        "efficiency": {
+            "Data Analysis Report": 1.0,
+            "Frontend Development": 0.5,
+            "Backend API Development": 0.6
+        },
+        "description": "Team leader, excels at data analysis, limited time but high efficiency"
+    }
+}

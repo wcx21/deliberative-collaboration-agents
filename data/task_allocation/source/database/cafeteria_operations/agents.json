@@ -1,0 +1,263 @@
+{
+  "agent_pool": [
+    {
+      "persona_id": "caf_001",
+      "name": "Shift lead (coordinates and prioritizes)",
+      "description": "An experienced shift leader who excels at coordinating team activities and prioritizing tasks based on service demands. They have strong organizational skills and can manage multiple workstreams simultaneously. Their leadership enables efficient workflow and prevents bottlenecks. While capable of hands-on work, their primary value is in strategic task allocation and maintaining service quality standards. They have good stamina and can handle the mental load of coordination.",
+      "possible_roles": ["leader", "worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 6,
+          "std": 1.2
+        },
+        "Mental energy": {
+          "mean": 5,
+          "std": 1.2
+        },
+        "Physical energy": {
+          "mean": 4,
+          "std": 1.0
+        },
+        "Multitasking capacity": {
+          "mean": 4.5,
+          "std": 0.4
+        }
+      },
+      "efficiency": {
+        "Prep vegetables batch (wash/chop/portion)": 0.9,
+        "Prep proteins batch (trim/marinate/portion)": 0.9,
+        "Cook high-demand dish batch (daily special)": 1.2,
+        "Cook staple base batch (rice/noodles/soup)": 1.0,
+        "Assemble grab-and-go items (sandwiches/salads)": 1.0,
+        "Peak-hour counter serving and packaging": 1.3,
+        "Online pre-order packing and labeling": 1.1,
+        "Receive delivery and verify items": 1.1,
+        "Store ingredients with FIFO labeling": 1.0,
+        "Temperature log and food safety check": 1.2,
+        "Deep clean critical stations (grill/prep area)": 0.8,
+        "Restock condiments/utensils/packaging": 0.9,
+        "Update menu board and allergen tags": 1.0,
+        "End-of-shift closing checklist": 1.2
+      },
+      "public_resource_cost_multipliers": {
+        "Serving capacity": 0.9
+      }
+    },
+    {
+      "persona_id": "caf_002",
+      "name": "Fast line cook (high stamina)",
+      "description": "A high-energy line cook with exceptional physical stamina who can maintain fast-paced cooking operations throughout long shifts. They excel at high-volume cooking tasks and can handle the heat and pressure of peak service periods. Their speed and endurance make them invaluable during busy periods. They work best with clear instructions and prefer hands-on cooking over planning or administrative tasks. Their physical capacity allows them to handle demanding kitchen work efficiently.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 6,
+          "std": 1.2
+        },
+        "Mental energy": {
+          "mean": 3.5,
+          "std": 1.0
+        },
+        "Physical energy": {
+          "mean": 5,
+          "std": 1.3
+        },
+        "Multitasking capacity": {
+          "mean": 0.8,
+          "std": 0.3
+        }
+      },
+      "efficiency": {
+        "Prep vegetables batch (wash/chop/portion)": 1.1,
+        "Prep proteins batch (trim/marinate/portion)": 1.1,
+        "Cook high-demand dish batch (daily special)": 1.4,
+        "Cook staple base batch (rice/noodles/soup)": 1.3,
+        "Assemble grab-and-go items (sandwiches/salads)": 1.0,
+        "Peak-hour counter serving and packaging": 1.1,
+        "Online pre-order packing and labeling": 0.8,
+        "Receive delivery and verify items": 0.9,
+        "Store ingredients with FIFO labeling": 0.8,
+        "Temperature log and food safety check": 0.7,
+        "Deep clean critical stations (grill/prep area)": 1.2,
+        "Restock condiments/utensils/packaging": 0.9,
+        "Update menu board and allergen tags": 0.6,
+        "End-of-shift closing checklist": 0.8
+      },
+      "public_resource_cost_multipliers": {
+        "Kitchen equipment time": 0.85
+      }
+    },
+    {
+      "persona_id": "caf_003",
+      "name": "Detail-oriented prep cook (consistent quality)",
+      "description": "A meticulous prep cook who takes pride in consistent, high-quality preparation work. They have excellent attention to detail and follow recipes and procedures precisely. Their careful approach ensures food safety and portion accuracy, preventing waste and maintaining standards. They work methodically and prefer focused prep tasks over fast-paced service. Their precision requires more time but results in superior quality and fewer errors.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 5.5,
+          "std": 1.1
+        },
+        "Mental energy": {
+          "mean": 4.5,
+          "std": 1.1
+        },
+        "Physical energy": {
+          "mean": 3.5,
+          "std": 1.0
+        },
+        "Multitasking capacity": {
+          "mean": 0.8,
+          "std": 0.3
+        }
+      },
+      "efficiency": {
+        "Prep vegetables batch (wash/chop/portion)": 1.4,
+        "Prep proteins batch (trim/marinate/portion)": 1.5,
+        "Cook high-demand dish batch (daily special)": 0.9,
+        "Cook staple base batch (rice/noodles/soup)": 1.0,
+        "Assemble grab-and-go items (sandwiches/salads)": 1.2,
+        "Peak-hour counter serving and packaging": 0.7,
+        "Online pre-order packing and labeling": 1.1,
+        "Receive delivery and verify items": 1.3,
+        "Store ingredients with FIFO labeling": 1.4,
+        "Temperature log and food safety check": 1.3,
+        "Deep clean critical stations (grill/prep area)": 1.0,
+        "Restock condiments/utensils/packaging": 1.1,
+        "Update menu board and allergen tags": 0.9,
+        "End-of-shift closing checklist": 1.1
+      },
+      "public_resource_cost_multipliers": {
+        "Ingredients budget": 0.8
+      }
+    },
+    {
+      "persona_id": "caf_004",
+      "name": "Counter service specialist (throughput + labeling)",
+      "description": "A customer-facing service specialist who excels at fast, accurate order fulfillment and proper labeling. They have excellent people skills and can maintain high throughput during peak hours while ensuring accuracy. Their efficiency at the counter directly impacts customer satisfaction and revenue. They work well under pressure and can handle multiple orders simultaneously. Their focus on speed and accuracy makes them ideal for front-of-house operations.",
+      "possible_roles": ["worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 6,
+          "std": 1.2
+        },
+        "Mental energy": {
+          "mean": 4,
+          "std": 1.0
+        },
+        "Physical energy": {
+          "mean": 3.5,
+          "std": 1.0
+        },
+        "Multitasking capacity": {
+          "mean": 4.8,
+          "std": 0.5
+        }
+      },
+      "efficiency": {
+        "Prep vegetables batch (wash/chop/portion)": 0.7,
+        "Prep proteins batch (trim/marinate/portion)": 0.7,
+        "Cook high-demand dish batch (daily special)": 0.8,
+        "Cook staple base batch (rice/noodles/soup)": 0.8,
+        "Assemble grab-and-go items (sandwiches/salads)": 1.2,
+        "Peak-hour counter serving and packaging": 1.5,
+        "Online pre-order packing and labeling": 1.4,
+        "Receive delivery and verify items": 0.9,
+        "Store ingredients with FIFO labeling": 0.8,
+        "Temperature log and food safety check": 0.9,
+        "Deep clean critical stations (grill/prep area)": 0.6,
+        "Restock condiments/utensils/packaging": 1.1,
+        "Update menu board and allergen tags": 1.2,
+        "End-of-shift closing checklist": 1.0
+      },
+      "public_resource_cost_multipliers": {
+        "Serving capacity": 0.8
+      }
+    },
+    {
+      "persona_id": "caf_005",
+      "name": "Food safety stickler (QC mindset)",
+      "description": "A quality control specialist with deep knowledge of food safety regulations and best practices. They are meticulous about following protocols and identifying potential hazards. Their vigilance prevents foodborne illness and ensures compliance with health codes. They can lead by example and enforce standards, but their thoroughness requires more time. Their attention to safety protocols makes them essential for maintaining operational integrity.",
+      "possible_roles": ["leader", "worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 5,
+          "std": 1.1
+        },
+        "Mental energy": {
+          "mean": 5,
+          "std": 1.2
+        },
+        "Physical energy": {
+          "mean": 3.5,
+          "std": 1.0
+        },
+        "Multitasking capacity": {
+          "mean": 1.8,
+          "std": 0.4
+        }
+      },
+      "efficiency": {
+        "Prep vegetables batch (wash/chop/portion)": 1.2,
+        "Prep proteins batch (trim/marinate/portion)": 1.3,
+        "Cook high-demand dish batch (daily special)": 1.0,
+        "Cook staple base batch (rice/noodles/soup)": 1.0,
+        "Assemble grab-and-go items (sandwiches/salads)": 1.1,
+        "Peak-hour counter serving and packaging": 0.9,
+        "Online pre-order packing and labeling": 1.2,
+        "Receive delivery and verify items": 1.4,
+        "Store ingredients with FIFO labeling": 1.3,
+        "Temperature log and food safety check": 1.5,
+        "Deep clean critical stations (grill/prep area)": 1.3,
+        "Restock condiments/utensils/packaging": 1.0,
+        "Update menu board and allergen tags": 1.1,
+        "End-of-shift closing checklist": 1.2
+      },
+      "public_resource_cost_multipliers": {
+        "Sanitation supplies": 0.85
+      }
+    },
+    {
+      "persona_id": "caf_006",
+      "name": "Cost-conscious planner (reduces waste)",
+      "description": "A strategic planner who focuses on minimizing waste and optimizing resource usage. They have strong analytical skills and can identify inefficiencies in operations. Their planning prevents over-ordering and reduces food waste, directly impacting profitability. They excel at inventory management and can coordinate ordering to match actual demand. While they can perform hands-on tasks, their primary value is in strategic resource management and cost control.",
+      "possible_roles": ["leader", "worker"],
+      "private_resources": {
+        "Time": {
+          "mean": 5.5,
+          "std": 1.1
+        },
+        "Mental energy": {
+          "mean": 4.5,
+          "std": 1.1
+        },
+        "Physical energy": {
+          "mean": 3.0,
+          "std": 1.0
+        },
+        "Multitasking capacity": {
+          "mean": 1.8,
+          "std": 0.4
+        }
+      },
+      "efficiency": {
+        "Prep vegetables batch (wash/chop/portion)": 1.0,
+        "Prep proteins batch (trim/marinate/portion)": 1.1,
+        "Cook high-demand dish batch (daily special)": 1.0,
+        "Cook staple base batch (rice/noodles/soup)": 1.0,
+        "Assemble grab-and-go items (sandwiches/salads)": 1.0,
+        "Peak-hour counter serving and packaging": 0.9,
+        "Online pre-order packing and labeling": 1.0,
+        "Receive delivery and verify items": 1.2,
+        "Store ingredients with FIFO labeling": 1.3,
+        "Temperature log and food safety check": 1.1,
+        "Deep clean critical stations (grill/prep area)": 0.8,
+        "Restock condiments/utensils/packaging": 1.0,
+        "Update menu board and allergen tags": 0.9,
+        "End-of-shift closing checklist": 1.1
+      },
+      "public_resource_cost_multipliers": {
+        "Ingredients budget": 0.7
+      }
+    }
+  ]
+}
+

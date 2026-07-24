@@ -1,0 +1,1585 @@
+{
+    "Shrimp Dumplings": {
+        "ingredients": {
+            "shrimp": 1,
+            "wheat flour": 2,
+            "cabbage": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "sesame oil"
+        ],
+        "keywords": [
+            "steamed",
+            "savory",
+            "bite-sized",
+            "dim sum",
+            "dumplings"
+        ],
+        "description": "Tender dumplings filled with shrimp and pork, representing classic Cantonese dim sum culture.",
+        "cuisine": "South Chinese"
+    },
+    "Sweet and Sour Pork": {
+        "ingredients": {
+            "pork loin": 3
+        },
+        "condiments": [
+            "soy sauce",
+            "sugar",
+            "ginger"
+        ],
+        "keywords": [
+            "sweet",
+            "sour",
+            "crispy",
+            "fried",
+            "pork"
+        ],
+        "description": "Crispy fried pork pieces coated in a tangy sweet-and-sour sauce.",
+        "cuisine": "North Chinese"
+    },
+    "Wonton Soup": {
+        "ingredients": {
+            "pork shoulder": 2,
+            "scallions": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "white pepper",
+            "sesame oil"
+        ],
+        "keywords": [
+            "brothy",
+            "savory",
+            "comforting",
+            "wonton",
+            "soup"
+        ],
+        "description": "A light, savory soup with delicate wontons and aromatic broth.",
+        "cuisine": "South Chinese"
+    },
+    "Hainanese Chicken Rice": {
+        "ingredients": {
+            "chicken drumsticks": 1,
+            "jasmine rice": 2,
+            "scallions": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "chili sauce"
+        ],
+        "keywords": [
+            "aromatic",
+            "savory",
+            "chicken",
+            "rice",
+            "classic"
+        ],
+        "description": "Tender poached chicken served with fragrant rice and flavorful sauces.",
+        "cuisine": "South Chinese"
+    },
+    "BBQ Pork": {
+        "ingredients": {
+            "pork shoulder": 3
+        },
+        "condiments": [
+            "soy sauce",
+            "five-spice powder"
+        ],
+        "keywords": [
+            "sweet",
+            "savory",
+            "sticky",
+            "BBQ",
+            "pork"
+        ],
+        "description": "Sweet and savory Cantonese-style barbecued pork with a glossy glaze.",
+        "cuisine": "South Chinese"
+    },
+    "Steamed Fish with Ginger and Scallions": {
+        "ingredients": {
+            "sea bass": 1,
+            "scallions": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "sesame oil"
+        ],
+        "keywords": [
+            "healthy",
+            "light",
+            "steamed",
+            "fish",
+            "aromatic"
+        ],
+        "description": "Delicately steamed fish flavored with ginger, scallions, and soy sauce.",
+        "cuisine": "South Chinese"
+    },
+    "Claypot Rice": {
+        "ingredients": {
+            "jasmine rice": 2,
+            "shiitake mushrooms": 1,
+            "pork belly": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "oyster sauce"
+        ],
+        "keywords": [
+            "hearty",
+            "savory",
+            "rice",
+            "sizzling",
+            "claypot"
+        ],
+        "description": "Fragrant rice cooked in a claypot with toppings like sausage and mushrooms.",
+        "cuisine": "South Chinese"
+    },
+    "Lotus Root and Pork Soup": {
+        "ingredients": {
+            "pork ribs": 2,
+            "lotus root": 2
+        },
+        "condiments": [
+            "salt",
+            "white pepper"
+        ],
+        "keywords": [
+            "nutritious",
+            "brothy",
+            "comforting",
+            "soup",
+            "lotus root"
+        ],
+        "description": "A nourishing soup featuring tender lotus root and pork ribs.",
+        "cuisine": "South Chinese"
+    },
+    "Peking Duck": {
+        "ingredients": {
+            "duck": 1,
+            "cucumber": 1,
+            "scallions": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "hoisin sauce",
+            "salt"
+        ],
+        "keywords": [
+            "crispy",
+            "savory",
+            "aromatic",
+            "traditional",
+            "meat"
+        ],
+        "description": "Crispy roasted duck served with thin pancakes, hoisin sauce, and fresh vegetables.",
+        "cuisine": "North Chinese"
+    },
+    "Fried Sauce Noodles": {
+        "ingredients": {
+            "pork shoulder": 1,
+            "wheat noodles": 2,
+            "cucumber": 1
+        },
+        "condiments": [
+            "garlic",
+            "ginger",
+            "dark soy sauce"
+        ],
+        "keywords": [
+            "noodles",
+            "savory",
+            "umami",
+            "pork",
+            "hearty"
+        ],
+        "description": "Flavored wheat noodles topped with a rich soybean and pork sauce, garnished with fresh vegetables.",
+        "cuisine": "North Chinese"
+    },
+    "Hand-Pulled Noodles": {
+        "ingredients": {
+            "beef chuck": 1,
+            "wheat noodles": 2,
+            "scallions": 1
+        },
+        "condiments": [
+            "chili oil",
+            "salt",
+            "star anise"
+        ],
+        "keywords": [
+            "brothy",
+            "beef",
+            "handmade",
+            "spicy",
+            "noodles"
+        ],
+        "description": "Hand-pulled noodles in clear beef broth, with tender beef slices and fresh herbs.",
+        "cuisine": "North Chinese"
+    },
+    "Steamed Buns": {
+        "ingredients": {
+            "pork shoulder": 1,
+            "wheat flour": 2,
+            "cabbage": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "sesame oil",
+            "salt"
+        ],
+        "keywords": [
+            "steamed",
+            "savory",
+            "soft",
+            "dumpling",
+            "pork"
+        ],
+        "description": "Soft steamed buns filled with savory pork and cabbage filling.",
+        "cuisine": "North Chinese"
+    },
+    "Big Plate Chicken": {
+        "ingredients": {
+            "chicken thighs": 2,
+            "potato": 1,
+            "green peppers": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "chili peppers",
+            "star anise"
+        ],
+        "keywords": [
+            "spicy",
+            "bold",
+            "stewed",
+            "hearty",
+            "chicken"
+        ],
+        "description": "Spicy and bold chicken stew served with potatoes and wide noodles.",
+        "cuisine": "North Chinese"
+    },
+    "Pan-Fried Dumplings": {
+        "ingredients": {
+            "pork shoulder": 2,
+            "wheat flour": 2,
+            "cabbage": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "vinegar",
+            "sesame oil"
+        ],
+        "keywords": [
+            "crispy",
+            "savory",
+            "fried",
+            "dumpling",
+            "pork"
+        ],
+        "description": "Juicy pork dumplings with crispy fried bottoms and soft tops.",
+        "cuisine": "North Chinese"
+    },
+    "Twice-Cooked Pork": {
+        "ingredients": {
+            "pork belly": 2,
+            "green peppers": 1,
+            "scallions": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "doubanjiang",
+            "sugar"
+        ],
+        "keywords": [
+            "savory",
+            "spicy",
+            "stir-fried",
+            "pork",
+            "bold"
+        ],
+        "description": "Tender pork belly slices stir-fried with bold flavors of doubanjiang and fresh vegetables.",
+        "cuisine": "North Chinese"
+    },
+    "Spaghetti Carbonara": {
+        "ingredients": {
+            "macaroni pasta": 2,
+            "eggs": 2,
+            "pecorino romano cheese": 1
+        },
+        "condiments": [
+            "salt"
+        ],
+        "keywords": [
+            "creamy",
+            "pasta",
+            "comfort food",
+            "classic",
+            "Italian"
+        ],
+        "description": "Rich and creamy pasta dish with eggs, cheese, guanciale, and pepper.",
+        "cuisine": "Italian"
+    },
+    "Margherita Pizza": {
+        "ingredients": {
+            "tomato": 1,
+            "pecorino romano cheese": 1,
+            "wheat flour": 2,
+            "zucchini": 1
+        },
+        "condiments": [
+            "salt"
+        ],
+        "keywords": [
+            "crispy",
+            "cheesy",
+            "classic",
+            "simple",
+            "pizza"
+        ],
+        "description": "Traditional Italian pizza with tomato, mozzarella, and fresh basil on a crispy crust.",
+        "cuisine": "Italian"
+    },
+    "Saffron Risotto": {
+        "ingredients": {
+            "jasmine rice": 2,
+            "cream": 1,
+            "green peas": 1
+        },
+        "condiments": [
+            "salt",
+            "black pepper"
+        ],
+        "keywords": [
+            "creamy",
+            "aromatic",
+            "comfort food",
+            "luxurious",
+            "Italian"
+        ],
+        "description": "Creamy rice dish infused with saffron and topped with parmesan cheese.",
+        "cuisine": "Italian"
+    },
+    "Lasagna": {
+        "ingredients": {
+            "wheat flour": 2,
+            "beef chuck": 1,
+            "tomato": 1
+        },
+        "condiments": [
+            "salt",
+            "black pepper"
+        ],
+        "keywords": [
+            "layered",
+            "meaty",
+            "cheesy",
+            "baked",
+            "classic"
+        ],
+        "description": "Layered pasta dish with meat sauce, bechamel, and cheese, baked until golden.",
+        "cuisine": "Italian"
+    },
+    "Tiramisu": {
+        "ingredients": {
+            "eggs": 2,
+            "cream": 2
+        },
+        "condiments": [],
+        "keywords": [
+            "creamy",
+            "coffee-flavored",
+            "dessert",
+            "classic",
+            "Italian"
+        ],
+        "description": "Layered dessert with coffee-soaked biscuits, mascarpone cream, and cocoa.",
+        "cuisine": "Italian"
+    },
+    "Caprese Salad": {
+        "ingredients": {
+            "tomato": 2,
+            "spinach": 1
+        },
+        "condiments": [
+            "salt",
+            "black pepper"
+        ],
+        "keywords": [
+            "fresh",
+            "light",
+            "healthy",
+            "simple",
+            "salad"
+        ],
+        "description": "Simple salad with fresh tomatoes, mozzarella, and basil, drizzled with olive oil.",
+        "cuisine": "Italian"
+    },
+    "Braised Veal Shanks": {
+        "ingredients": {
+            "veal shanks": 2,
+            "onions": 1,
+            "carrots": 1
+        },
+        "condiments": [
+            "salt",
+            "black pepper"
+        ],
+        "keywords": [
+            "braised",
+            "hearty",
+            "traditional",
+            "Italian",
+            "savory"
+        ],
+        "description": "Braised veal shanks served with a rich vegetable and wine sauce.",
+        "cuisine": "Italian"
+    },
+    "Panna Cotta": {
+        "ingredients": {
+            "cream": 2,
+            "eggs": 1
+        },
+        "condiments": [],
+        "keywords": [
+            "creamy",
+            "silky",
+            "dessert",
+            "classic",
+            "light"
+        ],
+        "description": "Creamy, silky dessert with vanilla flavor, served chilled.",
+        "cuisine": "Italian"
+    },
+    "Ratatouille": {
+        "ingredients": {
+            "eggplants": 1,
+            "zucchini": 1,
+            "tomato": 2
+        },
+        "condiments": [
+            "garlic",
+            "herbes de Provence",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "vegetable",
+            "light",
+            "rustic",
+            "healthy",
+            "classic"
+        ],
+        "description": "A vibrant vegetable medley, slow-cooked to perfection for a hearty and healthy French classic.",
+        "cuisine": "French"
+    },
+    "Braised Chicken in Red Wine": {
+        "ingredients": {
+            "chicken thighs": 2,
+            "carrots": 1,
+            "onions": 1
+        },
+        "condiments": [
+            "thyme",
+            "bay leaf",
+            "garlic",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "rich",
+            "wine",
+            "slow-cooked",
+            "savory",
+            "rustic"
+        ],
+        "description": "Braised chicken in red wine with bacon, mushrooms, and onions for an iconic, flavorful French dish.",
+        "cuisine": "French"
+    },
+    "Fish Stew": {
+        "ingredients": {
+            "white fish": 2,
+            "fennel": 1
+        },
+        "condiments": [
+            "saffron",
+            "garlic",
+            "thyme",
+            "bay leaf",
+            "salt"
+        ],
+        "keywords": [
+            "seafood",
+            "broth",
+            "aromatic",
+            "Mediterranean",
+            "classic"
+        ],
+        "description": "A fragrant Proven\u00e7al fish stew, combining tender seafood with aromatic herbs and saffron.",
+        "cuisine": "French"
+    },
+    "Quiche": {
+        "ingredients": {
+            "eggs": 2,
+            "cream": 1,
+            "pork belly": 1,
+            "wheat flour": 1
+        },
+        "condiments": [
+            "nutmeg",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "savory",
+            "creamy",
+            "bacon",
+            "pastry",
+            "brunch"
+        ],
+        "description": "A savory tart filled with a creamy egg custard, bacon, and cheese.",
+        "cuisine": "French"
+    },
+    "Beef Stew": {
+        "ingredients": {
+            "beef chuck": 2,
+            "carrots": 1,
+            "onions": 1
+        },
+        "condiments": [
+            "thyme",
+            "bay leaf",
+            "garlic",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "hearty",
+            "slow-cooked",
+            "wine",
+            "beef",
+            "classic"
+        ],
+        "description": "A hearty beef stew braised in red wine, enriched with vegetables and aromatic herbs.",
+        "cuisine": "French"
+    },
+    "Ham and Cheese Sandwich": {
+        "ingredients": {
+            "pork loin": 1,
+            "pecorino romano cheese": 1,
+            "wheat flour": 1
+        },
+        "condiments": [
+            "nutmeg",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "sandwich",
+            "cheesy",
+            "crispy",
+            "ham",
+            "French"
+        ],
+        "description": "A decadent ham and cheese sandwich topped with b\u00e9chamel sauce, crispy and golden.",
+        "cuisine": "French"
+    },
+    "French Onion Soup": {
+        "ingredients": {
+            "onions": 2,
+            "beef bones": 2
+        },
+        "condiments": [
+            "thyme",
+            "bay leaf",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "soup",
+            "onion",
+            "cheesy",
+            "comforting",
+            "classic"
+        ],
+        "description": "A comforting caramelized onion soup topped with cheesy, toasted baguette.",
+        "cuisine": "French"
+    },
+    "Cr\u00e8me Br\u00fbl\u00e9e": {
+        "ingredients": {
+            "cream": 2,
+            "eggs": 1
+        },
+        "condiments": [],
+        "keywords": [
+            "dessert",
+            "creamy",
+            "caramelized",
+            "vanilla",
+            "elegant"
+        ],
+        "description": "A rich, vanilla custard dessert with a crispy, caramelized sugar topping.",
+        "cuisine": "French"
+    },
+    "Sushi": {
+        "ingredients": {
+            "jasmine rice": 2,
+            "sea bass": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "wasabi",
+            "pickled ginger"
+        ],
+        "keywords": [
+            "fresh",
+            "umami",
+            "seafood",
+            "rice",
+            "classic"
+        ],
+        "description": "Iconic Japanese dish with vinegared rice and fresh raw fish, often wrapped in nori.",
+        "cuisine": "Japanese"
+    },
+    "Ramen": {
+        "ingredients": {
+            "wheat noodles": 2,
+            "chicken thighs": 1,
+            "eggs": 1,
+            "scallions": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "miso paste",
+            "sesame oil"
+        ],
+        "keywords": [
+            "hearty",
+            "noodles",
+            "brothy",
+            "comfort food",
+            "savory"
+        ],
+        "description": "Rich noodle soup with a flavorful broth and various toppings like pork and eggs.",
+        "cuisine": "Japanese"
+    },
+    "Tempura": {
+        "ingredients": {
+            "shrimp": 3,
+            "wheat noodles": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "grated daikon",
+            "dashi"
+        ],
+        "keywords": [
+            "crispy",
+            "fried",
+            "light",
+            "batter",
+            "versatile"
+        ],
+        "description": "Lightly battered and fried seafood or vegetables served with dipping sauce.",
+        "cuisine": "Japanese"
+    },
+    "Octopus Balls": {
+        "ingredients": {
+            "octopus": 1,
+            "eggs": 1,
+            "scallions": 1
+        },
+        "condiments": [
+            "takoyaki sauce",
+            "mayonnaise",
+            "bonito flakes"
+        ],
+        "keywords": [
+            "snack",
+            "savory",
+            "octopus",
+            "street food",
+            "crispy"
+        ],
+        "description": "Round, savory snacks made from batter filled with octopus and topped with sauces.",
+        "cuisine": "Japanese"
+    },
+    "Miso Soup": {
+        "ingredients": {
+            "tofu puffs": 2,
+            "scallions": 1,
+            "shiitake mushrooms": 1
+        },
+        "condiments": [
+            "green onions"
+        ],
+        "keywords": [
+            "warm",
+            "umami",
+            "healthy",
+            "broth",
+            "light"
+        ],
+        "description": "Traditional, comforting soup made with fermented miso paste and dashi stock.",
+        "cuisine": "Japanese"
+    },
+    "Savory Pancake": {
+        "ingredients": {
+            "cabbage": 1,
+            "eggs": 1,
+            "pork belly": 1,
+            "wheat flour": 1
+        },
+        "condiments": [
+            "okonomiyaki sauce",
+            "mayonnaise",
+            "bonito flakes"
+        ],
+        "keywords": [
+            "savory",
+            "pancake",
+            "customizable",
+            "street food",
+            "hearty"
+        ],
+        "description": "Japanese savory pancake loaded with cabbage, pork, and toppings.",
+        "cuisine": "Japanese"
+    },
+    "Rice Balls": {
+        "ingredients": {
+            "jasmine rice": 2,
+            "scallions": 1
+        },
+        "condiments": [
+            "nori sheets"
+        ],
+        "keywords": [
+            "portable",
+            "rice ball",
+            "snack",
+            "simple",
+            "traditional"
+        ],
+        "description": "Hand-shaped rice balls often filled with savory ingredients and wrapped in nori.",
+        "cuisine": "Japanese"
+    },
+    "Matcha Ice Cream": {
+        "ingredients": {
+            "cream": 2,
+            "eggs": 1
+        },
+        "condiments": [],
+        "keywords": [
+            "dessert",
+            "green tea",
+            "creamy",
+            "sweet",
+            "refreshing"
+        ],
+        "description": "Creamy ice cream infused with bold and earthy matcha flavor.",
+        "cuisine": "Japanese"
+    },
+    "Butter Chicken": {
+        "ingredients": {
+            "chicken thighs": 2,
+            "tomato": 1,
+            "onions": 1
+        },
+        "condiments": [
+            "garam masala",
+            "cumin",
+            "turmeric",
+            "paprika",
+            "salt"
+        ],
+        "keywords": [
+            "savory",
+            "creamy",
+            "mild spice",
+            "rich",
+            "classic"
+        ],
+        "description": "A creamy, tomato-based curry with tender chicken and rich spices, a staple of Indian cuisine.",
+        "cuisine": "Indian"
+    },
+    "Biryani": {
+        "ingredients": {
+            "basmati rice": 2,
+            "chicken thighs": 1,
+            "onions": 1
+        },
+        "condiments": [
+            "cardamom",
+            "cinnamon",
+            "cloves",
+            "bay leaves",
+            "saffron"
+        ],
+        "keywords": [
+            "aromatic",
+            "spiced rice",
+            "layered",
+            "festive",
+            "flavorful"
+        ],
+        "description": "A fragrant and spiced rice dish cooked with marinated meat and layered with saffron.",
+        "cuisine": "Indian"
+    },
+    "Masala Dosa": {
+        "ingredients": {
+            "jasmine rice": 2,
+            "potato": 1,
+            "onions": 1
+        },
+        "condiments": [
+            "mustard seeds",
+            "curry leaves",
+            "turmeric",
+            "salt"
+        ],
+        "keywords": [
+            "crispy",
+            "savory",
+            "fermented",
+            "Indian pancake",
+            "stuffed"
+        ],
+        "description": "Crispy fermented rice crepe stuffed with spiced mashed potatoes, served with chutney and sambar.",
+        "cuisine": "Indian"
+    },
+    "Spinach and Paneer Curry": {
+        "ingredients": {
+            "spinach": 2,
+            "cream": 1,
+            "tomato": 1
+        },
+        "condiments": [
+            "cumin",
+            "coriander",
+            "garam masala",
+            "salt"
+        ],
+        "keywords": [
+            "creamy",
+            "vegetarian",
+            "healthy",
+            "spiced",
+            "smooth"
+        ],
+        "description": "A creamy spinach-based curry with soft cubes of paneer, balancing nutrition and flavor.",
+        "cuisine": "Indian"
+    },
+    "Samosa": {
+        "ingredients": {
+            "potato": 2,
+            "green peas": 1,
+            "wheat noodles": 1
+        },
+        "condiments": [
+            "cumin",
+            "coriander",
+            "garam masala",
+            "fennel seeds"
+        ],
+        "keywords": [
+            "crispy",
+            "savory",
+            "snack",
+            "fried",
+            "spiced"
+        ],
+        "description": "A deep-fried pastry filled with spiced potatoes and peas, popular as a tea-time snack.",
+        "cuisine": "Indian"
+    },
+    "Tandoori Chicken": {
+        "ingredients": {
+            "chicken thighs": 3,
+            "scallions": 1
+        },
+        "condiments": [
+            "cumin",
+            "coriander",
+            "paprika",
+            "turmeric",
+            "salt"
+        ],
+        "keywords": [
+            "grilled",
+            "spicy",
+            "marinated",
+            "smoky",
+            "traditional"
+        ],
+        "description": "Chicken marinated in spiced yogurt and grilled to perfection, offering smoky and charred flavors.",
+        "cuisine": "Indian"
+    },
+    "Naan": {
+        "ingredients": {
+            "wheat flour": 2,
+            "cream": 1
+        },
+        "condiments": [
+            "salt",
+            "ghee"
+        ],
+        "keywords": [
+            "soft",
+            "fluffy",
+            "bread",
+            "grilled",
+            "classic"
+        ],
+        "description": "Soft and fluffy flatbread cooked in a tandoor, perfect for scooping up curries.",
+        "cuisine": "Indian"
+    },
+    "Gulab Jamun": {
+        "ingredients": {
+            "cream": 2
+        },
+        "condiments": [
+            "cardamom",
+            "rose water"
+        ],
+        "keywords": [
+            "sweet",
+            "dessert",
+            "syrupy",
+            "soft",
+            "festive"
+        ],
+        "description": "Soft, syrup-soaked milk dumplings, a cherished Indian dessert served warm or cold.",
+        "cuisine": "Indian"
+    },
+    "Pad Thai": {
+        "ingredients": {
+            "rice noodles": 2,
+            "shrimp": 2,
+            "bean sprouts": 1,
+            "eggs": 1
+        },
+        "condiments": [
+            "peanuts",
+            "lime wedges",
+            "chili flakes"
+        ],
+        "keywords": [
+            "savory",
+            "tangy",
+            "noodles",
+            "Thai",
+            "classic"
+        ],
+        "description": "A classic Thai noodle dish combining sweet, tangy, and savory flavors with shrimp and tofu.",
+        "cuisine": "Southeast Asia"
+    },
+    "Coconut Rice": {
+        "ingredients": {
+            "jasmine rice": 2,
+            "coconut": 1
+        },
+        "condiments": [
+            "cucumber",
+            "salt"
+        ],
+        "keywords": [
+            "fragrant",
+            "coconut",
+            "rice",
+            "Malaysian",
+            "hearty"
+        ],
+        "description": "Malaysia's national dish with fragrant coconut rice served with sambal and sides.",
+        "cuisine": "Southeast Asia"
+    },
+    "Pho": {
+        "ingredients": {
+            "beef bones": 1,
+            "rice noodles": 2,
+            "onions": 1
+        },
+        "condiments": [
+            "fish sauce",
+            "lime wedges",
+            "bean sprouts",
+            "Thai basil"
+        ],
+        "keywords": [
+            "brothy",
+            "aromatic",
+            "Vietnamese",
+            "noodle soup",
+            "comfort"
+        ],
+        "description": "A Vietnamese noodle soup with aromatic broth and fresh herbs.",
+        "cuisine": "Southeast Asia"
+    },
+    "Adobo": {
+        "ingredients": {
+            "chicken thighs": 2,
+            "onions": 1
+        },
+        "condiments": [
+            "black pepper"
+        ],
+        "keywords": [
+            "savory",
+            "Filipino",
+            "chicken",
+            "stew",
+            "tangy"
+        ],
+        "description": "The iconic Filipino chicken stew braised in a soy and vinegar base.",
+        "cuisine": "Southeast Asia"
+    },
+    "Laksa": {
+        "ingredients": {
+            "rice noodles": 2,
+            "shrimp": 1,
+            "tofu puffs": 1
+        },
+        "condiments": [
+            "lime wedges",
+            "coriander"
+        ],
+        "keywords": [
+            "spicy",
+            "coconut",
+            "soup",
+            "Malaysian",
+            "noodles"
+        ],
+        "description": "A spicy and creamy coconut curry noodle soup with shrimp.",
+        "cuisine": "Southeast Asia"
+    },
+    "Satay": {
+        "ingredients": {
+            "chicken breast": 3,
+            "peanuts": 1
+        },
+        "condiments": [
+            "cucumber",
+            "red onion"
+        ],
+        "keywords": [
+            "grilled",
+            "savory",
+            "Indonesian",
+            "skewer",
+            "peanut"
+        ],
+        "description": "Grilled skewers served with a rich and creamy peanut sauce.",
+        "cuisine": "Southeast Asia"
+    },
+    "Papaya Salad": {
+        "ingredients": {
+            "cucumber": 1,
+            "tomato": 1,
+            "carrot": 1,
+            "peanuts": 1
+        },
+        "condiments": [
+            "peanuts",
+            "chili"
+        ],
+        "keywords": [
+            "fresh",
+            "crunchy",
+            "spicy",
+            "Thai",
+            "salad"
+        ],
+        "description": "A refreshing Thai salad combining tangy, spicy, and sweet flavors.",
+        "cuisine": "Southeast Asia"
+    },
+    "Banh Mi": {
+        "ingredients": {
+            "pork belly": 1,
+            "wheat flour": 2,
+            "cucumber": 1
+        },
+        "condiments": [
+            "cilantro",
+            "chili"
+        ],
+        "keywords": [
+            "crispy",
+            "Vietnamese",
+            "sandwich",
+            "savory",
+            "street food"
+        ],
+        "description": "Vietnamese baguette sandwich filled with flavorful pork and crisp vegetables.",
+        "cuisine": "Southeast Asia"
+    },
+    "Moussaka": {
+        "ingredients": {
+            "eggplants": 1,
+            "beef chuck": 2,
+            "potato": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper",
+            "nutmeg",
+            "cinnamon"
+        ],
+        "keywords": [
+            "baked",
+            "hearty",
+            "comfort food",
+            "layered",
+            "traditional"
+        ],
+        "description": "A classic Greek casserole layered with eggplants, potatoes, meat sauce, and creamy b\u00e9chamel.",
+        "cuisine": "Greek"
+    },
+    "Spinach Pie": {
+        "ingredients": {
+            "spinach": 2,
+            "eggs": 2
+        },
+        "condiments": [
+            "dill",
+            "parsley",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "savory pie",
+            "spinach",
+            "cheesy",
+            "crunchy",
+            "vegetarian"
+        ],
+        "description": "A savory spinach and feta-filled pie wrapped in flaky phyllo pastry.",
+        "cuisine": "Greek"
+    },
+    "Grilled Meat Skewers": {
+        "ingredients": {
+            "pork shoulder": 2,
+            "onions": 1
+        },
+        "condiments": [
+            "oregano",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "grilled",
+            "marinated",
+            "street food",
+            "juicy",
+            "traditional"
+        ],
+        "description": "Grilled meat skewers marinated simply for a flavorful Greek street food staple.",
+        "cuisine": "Greek"
+    },
+    "Tzatziki": {
+        "ingredients": {
+            "cucumber": 1,
+            "cream": 2
+        },
+        "condiments": [
+            "dill",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "refreshing",
+            "creamy",
+            "dip",
+            "garlicky",
+            "cooling"
+        ],
+        "description": "A refreshing yogurt-based dip with cucumbers, garlic, and herbs.",
+        "cuisine": "Greek"
+    },
+    "Greek Salad": {
+        "ingredients": {
+            "tomato": 2,
+            "cucumber": 1
+        },
+        "condiments": [
+            "oregano",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "fresh",
+            "vegetables",
+            "healthy",
+            "Mediterranean",
+            "crunchy"
+        ],
+        "description": "A vibrant salad with fresh vegetables, feta cheese, and kalamata olives.",
+        "cuisine": "Greek"
+    },
+    "Baklava": {
+        "ingredients": {
+            "wheat flour": 1,
+            "peanuts": 1,
+            "cream": 1
+        },
+        "condiments": [
+            "cloves",
+            "lemon juice"
+        ],
+        "keywords": [
+            "dessert",
+            "sweet",
+            "crispy",
+            "nutty",
+            "syrupy"
+        ],
+        "description": "A layered dessert with phyllo, nuts, and sweet syrup for a rich and crispy treat.",
+        "cuisine": "Greek"
+    },
+    "Egg-Lemon Soup": {
+        "ingredients": {
+            "chicken thighs": 2,
+            "jasmine rice": 1,
+            "eggs": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "soup",
+            "creamy",
+            "citrusy",
+            "light",
+            "comforting"
+        ],
+        "description": "A comforting soup combining chicken, rice, eggs, and lemon for a creamy, tangy flavor.",
+        "cuisine": "Greek"
+    },
+    "Cheeseburger": {
+        "ingredients": {
+            "wheat flour": 2,
+            "beef chuck": 2,
+            "tomato": 1
+        },
+        "condiments": [
+            "ketchup",
+            "mustard",
+            "mayonnaise"
+        ],
+        "keywords": [
+            "juicy",
+            "grilled",
+            "savory",
+            "classic",
+            "comfort food"
+        ],
+        "description": "A quintessential American burger with melty cheese, crisp lettuce, and a juicy beef patty.",
+        "cuisine": "American"
+    },
+    "Fried Chicken": {
+        "ingredients": {
+            "chicken drumsticks": 2,
+            "cream": 1
+        },
+        "condiments": [
+            "paprika",
+            "black pepper",
+            "salt"
+        ],
+        "keywords": [
+            "crispy",
+            "golden",
+            "savory",
+            "juicy",
+            "classic"
+        ],
+        "description": "Crispy, golden-brown fried chicken with tender, flavorful meat, perfect for any occasion.",
+        "cuisine": "American"
+    },
+    "Mac and Cheese": {
+        "ingredients": {
+            "macaroni pasta": 2,
+            "cream": 1,
+            "pecorino romano cheese": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "creamy",
+            "cheesy",
+            "comfort food",
+            "baked",
+            "classic"
+        ],
+        "description": "Rich and creamy macaroni combined with melted cheese, a beloved comfort dish.",
+        "cuisine": "American"
+    },
+    "Apple Pie": {
+        "ingredients": {
+            "apples": 2,
+            "cream": 1
+        },
+        "condiments": [
+            "nutmeg",
+            "lemon juice"
+        ],
+        "keywords": [
+            "sweet",
+            "baked",
+            "classic",
+            "dessert",
+            "fruity"
+        ],
+        "description": "A warm, flaky pie filled with spiced apple filling, a beloved American dessert.",
+        "cuisine": "American"
+    },
+    "Marinated Pork Tacos": {
+        "ingredients": {
+            "pork shoulder": 3,
+            "pineapple": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper",
+            "achiote paste"
+        ],
+        "keywords": [
+            "savory",
+            "spicy",
+            "street food",
+            "authentic",
+            "Mexican"
+        ],
+        "description": "Grilled marinated pork served in warm tortillas with pineapple, onion, and cilantro.",
+        "cuisine": "Mexican"
+    },
+    "Stuffed Poblano Chiles": {
+        "ingredients": {
+            "green peppers": 1,
+            "pork belly": 2,
+            "cream": 1
+        },
+        "condiments": [
+            "cinnamon",
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "sweet",
+            "savory",
+            "traditional",
+            "festive",
+            "stuffed"
+        ],
+        "description": "Stuffed poblano chiles topped with creamy walnut sauce and pomegranate seeds.",
+        "cuisine": "Mexican"
+    },
+    "Guacamole": {
+        "ingredients": {
+            "avocados": 2,
+            "tomato": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "fresh",
+            "creamy",
+            "dip",
+            "healthy",
+            "snack"
+        ],
+        "description": "Creamy avocado dip with lime, tomato, onion, and cilantro for a fresh, zesty flavor.",
+        "cuisine": "Mexican"
+    },
+    "Pozole": {
+        "ingredients": {
+            "hominy": 1,
+            "pork shoulder": 2
+        },
+        "condiments": [
+            "oregano",
+            "chili powder",
+            "salt"
+        ],
+        "keywords": [
+            "hearty",
+            "broth-based",
+            "traditional",
+            "spicy",
+            "comfort food"
+        ],
+        "description": "A rich, flavorful soup with pork, hominy, and spices, garnished with fresh toppings.",
+        "cuisine": "Mexican"
+    },
+    "Kimchi": {
+        "ingredients": {
+            "napa cabbage": 2,
+            "carrots": 1
+        },
+        "condiments": [
+            "fish sauce",
+            "sugar",
+            "garlic",
+            "ginger"
+        ],
+        "keywords": [
+            "fermented",
+            "spicy",
+            "side dish",
+            "traditional",
+            "probiotic"
+        ],
+        "description": "Spicy, tangy, and fermented vegetable dish, a quintessential Korean side.",
+        "cuisine": "Korean"
+    },
+    "Mixed Rice Bowl": {
+        "ingredients": {
+            "jasmine rice": 2,
+            "spinach": 1,
+            "zucchini": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "sesame oil",
+            "gochujang (red chili paste)",
+            "garlic",
+            "sesame seeds"
+        ],
+        "keywords": [
+            "rice",
+            "mixed",
+            "colorful",
+            "spicy",
+            "balanced"
+        ],
+        "description": "Vibrant bowl of mixed vegetables, rice, beef, and egg with spicy gochujang sauce.",
+        "cuisine": "Korean"
+    },
+    "Grilled Marinated Beef": {
+        "ingredients": {
+            "beef sirloin": 3,
+            "onions": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "garlic",
+            "sesame oil",
+            "black pepper"
+        ],
+        "keywords": [
+            "grilled",
+            "sweet",
+            "savory",
+            "tender",
+            "meat"
+        ],
+        "description": "Marinated beef slices grilled to perfection with savory-sweet Korean flavors.",
+        "cuisine": "Korean"
+    },
+    "Stir-Fried Noodles": {
+        "ingredients": {
+            "wheat noodles": 2,
+            "shiitake mushrooms": 1,
+            "spinach": 1
+        },
+        "condiments": [
+            "soy sauce",
+            "sesame oil",
+            "sugar",
+            "garlic"
+        ],
+        "keywords": [
+            "noodles",
+            "stir-fry",
+            "sweet",
+            "savory",
+            "glass noodles"
+        ],
+        "description": "Korean stir-fried glass noodles with colorful vegetables and protein of choice.",
+        "cuisine": "Korean"
+    },
+    "Borscht": {
+        "ingredients": {
+            "beetroot": 1,
+            "cabbage": 1,
+            "carrots": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper",
+            "bay leaf"
+        ],
+        "keywords": [
+            "soup",
+            "beetroot",
+            "hearty",
+            "traditional",
+            "warm"
+        ],
+        "description": "A vibrant beet soup with vegetables and beef broth, offering a hearty and tangy flavor.",
+        "cuisine": "Russian"
+    },
+    "Pelmeni": {
+        "ingredients": {
+            "wheat flour": 2,
+            "pork loin": 1,
+            "beef chuck": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "dumplings",
+            "meaty",
+            "comfort food",
+            "traditional",
+            "savory"
+        ],
+        "description": "Russian-style dumplings filled with seasoned meat mixture, typically served with sour cream or butter.",
+        "cuisine": "Russian"
+    },
+    "Beef Stroganoff": {
+        "ingredients": {
+            "beef chuck": 3,
+            "shiitake mushrooms": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "keywords": [
+            "creamy",
+            "beef",
+            "mushroom",
+            "comfort food",
+            "rich"
+        ],
+        "description": "Tender strips of beef with creamy mushroom sauce, a classic dish served over noodles or rice.",
+        "cuisine": "Russian"
+    },
+    "Potato Salad": {
+        "ingredients": {
+            "potato": 2,
+            "carrots": 1,
+            "eggs": 1
+        },
+        "condiments": [
+            "salt",
+            "pepper"
+        ],
+        "keywords": [
+            "salad",
+            "creamy",
+            "festive",
+            "traditional",
+            "vegetables"
+        ],
+        "description": "A traditional Russian potato salad with chicken, pickles, peas, and mayonnaise, often served during celebrations.",
+        "cuisine": "Russian"
+    }
+}

@@ -1,0 +1,8 @@
+Time
+Mental energy
+Local GPU
+Context switching tolerance
+Cloud computational budget
+Economic budget
+Shared storage quota
+

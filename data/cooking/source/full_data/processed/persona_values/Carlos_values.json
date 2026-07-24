@@ -1,0 +1,314 @@
+{
+    "Shrimp Dumplings": {
+        "reason": "Contains shrimp, which the person is allergic to.",
+        "rating": 0
+    },
+    "Sweet and Sour Pork": {
+        "reason": "Pork-based dish, aligns with cultural preferences and protein-rich focus.",
+        "rating": 1.75
+    },
+    "Wonton Soup": {
+        "reason": "Savory pork soup, fits adventurous eater and protein-rich goals.",
+        "rating": 1.6
+    },
+    "Hainanese Chicken Rice": {
+        "reason": "Chicken-based dish, flavorful and protein-rich, though not spicy.",
+        "rating": 1.4
+    },
+    "BBQ Pork": {
+        "reason": "Sweet pork dish, protein-rich but not spicy.",
+        "rating": 1.5
+    },
+    "Steamed Fish with Ginger and Scallions": {
+        "reason": "Spicy and traditional preferences are missing, but it's protein-rich and cruelty-free.",
+        "rating": 1.25
+    },
+    "Claypot Rice": {
+        "reason": "Contains pork and rice, aligns with adventurous eater but not spicy.",
+        "rating": 1.45
+    },
+    "Lotus Root and Pork Soup": {
+        "reason": "Pork-based soup, nourishing and aligns with protein-rich focus.",
+        "rating": 1.5
+    },
+    "Peking Duck": {
+        "reason": "Duck-based protein-rich dish, aligns with adventurous eater but not spicy.",
+        "rating": 1.35
+    },
+    "Fried Sauce Noodles": {
+        "reason": "Pork and noodle dish, protein-rich but not spicy or traditional.",
+        "rating": 1.4
+    },
+    "Hand-Pulled Noodles": {
+        "reason": "Beef and noodle dish, aligns with protein-rich focus but not spicy.",
+        "rating": 1.3
+    },
+    "Steamed Buns": {
+        "reason": "Pork-based dish, aligns with protein-rich focus but may not be spicy enough.",
+        "rating": 1.4
+    },
+    "Big Plate Chicken": {
+        "reason": "Spicy chicken dish, aligns with protein-rich and adventurous eater preferences.",
+        "rating": 1.8
+    },
+    "Pan-Fried Dumplings": {
+        "reason": "Pork-based dish, aligns with protein-rich focus but not spicy.",
+        "rating": 1.5
+    },
+    "Twice-Cooked Pork": {
+        "reason": "Spicy pork dish, aligns well with protein-rich and adventurous eater preferences.",
+        "rating": 1.85
+    },
+    "Spaghetti Carbonara": {
+        "reason": "Creamy pasta, not aligned with spice or traditional preferences.",
+        "rating": 1.0
+    },
+    "Margherita Pizza": {
+        "reason": "Vegetarian pizza, not aligned with protein-rich or traditional preferences.",
+        "rating": 0.95
+    },
+    "Saffron Risotto": {
+        "reason": "Creamy rice dish, does not align with spice or protein-rich focus.",
+        "rating": 0.9
+    },
+    "Lasagna": {
+        "reason": "Beef-based dish, aligns with protein-rich focus but lacks spiciness.",
+        "rating": 1.3
+    },
+    "Tiramisu": {
+        "reason": "Dessert dish, not aligned with protein-rich or adventurous eater preferences.",
+        "rating": 0.85
+    },
+    "Caprese Salad": {
+        "reason": "Vegetarian salad, not aligned with protein-rich or traditional preferences.",
+        "rating": 0.9
+    },
+    "Braised Veal Shanks": {
+        "reason": "Rich protein-based dish, aligns with adventurous eater preferences.",
+        "rating": 1.5
+    },
+    "Panna Cotta": {
+        "reason": "Dessert dish, not aligned with protein-rich or adventurous eater preferences.",
+        "rating": 0.9
+    },
+    "Ratatouille": {
+        "reason": "Vegetarian dish, not aligned with protein-rich or cultural preferences.",
+        "rating": 0.85
+    },
+    "Braised Chicken in Red Wine": {
+        "reason": "Chicken-based dish, aligns with protein-rich focus but lacks spiciness.",
+        "rating": 1.4
+    },
+    "Fish Stew": {
+        "reason": "Fish-based dish, aligns with protein-rich focus but lacks spiciness.",
+        "rating": 1.2
+    },
+    "Quiche": {
+        "reason": "Vegetarian-friendly tart, not aligned with protein-rich focus or spiciness.",
+        "rating": 1.0
+    },
+    "Beef Stew": {
+        "reason": "Beef-based dish, aligns with protein-rich focus but lacks spiciness.",
+        "rating": 1.35
+    },
+    "Ham and Cheese Sandwich": {
+        "reason": "Pork dish, aligns with protein-rich focus but lacks spiciness.",
+        "rating": 1.3
+    },
+    "French Onion Soup": {
+        "reason": "Vegetarian-friendly soup, not aligned with protein-rich focus or spiciness.",
+        "rating": 1.0
+    },
+    "Cr\u00e8me Br\u00fbl\u00e9e": {
+        "reason": "Dessert dish, not aligned with protein-rich or adventurous eater preferences.",
+        "rating": 0.85
+    },
+    "Sushi": {
+        "reason": "Contains raw fish, fits adventurous eater preferences but not spicy.",
+        "rating": 1.2
+    },
+    "Ramen": {
+        "reason": "Rich noodle soup, contains chicken and fits adventurous eater preferences.",
+        "rating": 1.6
+    },
+    "Tempura": {
+        "reason": "Contains shrimp, which the person is allergic to.",
+        "rating": 0
+    },
+    "Octopus Balls": {
+        "reason": "Octopus-based dish, aligns with adventurous eater but lacks spiciness.",
+        "rating": 1.25
+    },
+    "Miso Soup": {
+        "reason": "Vegetarian-friendly soup, does not align with protein-rich or spicy preferences.",
+        "rating": 1.0
+    },
+    "Savory Pancake": {
+        "reason": "Pork-based dish, aligns with adventurous eater preferences but mildly spicy.",
+        "rating": 1.5
+    },
+    "Rice Balls": {
+        "reason": "Rice-based dish, aligns with adventurous eater but lacks spiciness.",
+        "rating": 1.2
+    },
+    "Matcha Ice Cream": {
+        "reason": "Dessert dish, not aligned with protein-rich or adventurous eater preferences.",
+        "rating": 0.85
+    },
+    "Butter Chicken": {
+        "reason": "Spicy chicken dish, aligns with protein-rich and adventurous eater preferences.",
+        "rating": 1.85
+    },
+    "Biryani": {
+        "reason": "The dish contains chicken thighs, which align with his protein-rich and adventurous eating preferences. The spices resonate with his preference for spicy food.",
+        "rating": 1.55
+    },
+    "Masala Dosa": {
+        "reason": "Vegetarian dish that doesn't align with his preference for protein-rich, non-vegetarian food, but it's a unique and adventurous dish.",
+        "rating": 0.8
+    },
+    "Spinach and Paneer Curry": {
+        "reason": "Vegetarian and lacks meat; however, the creaminess and flavors might still appeal to him.",
+        "rating": 0.75
+    },
+    "Samosa": {
+        "reason": "It\u2019s a snack-friendly dish, but it lacks protein and is vegetarian.",
+        "rating": 0.85
+    },
+    "Tandoori Chicken": {
+        "reason": "Contains chicken thighs and is a protein-rich, spicy dish, aligning well with his preferences.",
+        "rating": 1.75
+    },
+    "Naan": {
+        "reason": "A side dish with no strong alignment to his preferences, but it might complement other dishes.",
+        "rating": 1.1
+    },
+    "Gulab Jamun": {
+        "reason": "A dessert that doesn\u2019t align with his dietary or health goals, but it could appeal to his adventurous side.",
+        "rating": 0.9
+    },
+    "Pad Thai": {
+        "reason": "Contains shrimp, which he is allergic to, making this dish unsuitable.",
+        "rating": 0
+    },
+    "Coconut Rice": {
+        "reason": "A neutral dish with no strong alignment to his preferences. It\u2019s flavorful but lacks protein.",
+        "rating": 1.0
+    },
+    "Pho": {
+        "reason": "Contains beef and aligns with his protein-rich preferences. The broth and spices might appeal to his adventurous palate.",
+        "rating": 1.5
+    },
+    "Adobo": {
+        "reason": "Contains chicken thighs and is a flavorful, protein-rich dish, aligning with his preferences.",
+        "rating": 1.7
+    },
+    "Laksa": {
+        "reason": "Contains shrimp, which he is allergic to, making this dish unsuitable.",
+        "rating": 0
+    },
+    "Satay": {
+        "reason": "Contains chicken and is protein-rich, but the peanut sauce might not strongly align with his usual preferences.",
+        "rating": 1.45
+    },
+    "Papaya Salad": {
+        "reason": "A vegetarian salad that doesn't strongly align with his dietary preferences but could appeal due to its spiciness.",
+        "rating": 1.0
+    },
+    "Banh Mi": {
+        "reason": "Contains pork belly and aligns with his adventurous eating style, but it's not spicy or protein-dense enough for a higher score.",
+        "rating": 1.3
+    },
+    "Moussaka": {
+        "reason": "Contains beef and aligns with his protein-rich preferences. The adventurous flavors might appeal to him.",
+        "rating": 1.5
+    },
+    "Spinach Pie": {
+        "reason": "Vegetarian and lacks a strong protein source, but it could appeal due to its unique flavor.",
+        "rating": 0.9
+    },
+    "Grilled Meat Skewers": {
+        "reason": "Contains pork shoulder and aligns with his protein-rich and adventurous eating preferences.",
+        "rating": 1.65
+    },
+    "Tzatziki": {
+        "reason": "A dip with no strong alignment to his preferences, but it could complement other dishes.",
+        "rating": 1.1
+    },
+    "Greek Salad": {
+        "reason": "Vegetarian and lacks protein, but the fresh ingredients might appeal to him.",
+        "rating": 0.95
+    },
+    "Baklava": {
+        "reason": "A dessert that doesn\u2019t align with his health and fitness goals, but its indulgent flavor might still appeal.",
+        "rating": 0.85
+    },
+    "Egg-Lemon Soup": {
+        "reason": "Contains chicken and eggs, aligning with his protein-rich preferences. The tangy flavor might appeal to his adventurous side.",
+        "rating": 1.6
+    },
+    "Cheeseburger": {
+        "reason": "Contains beef and aligns with his protein-rich preferences, but it\u2019s not particularly adventurous.",
+        "rating": 1.4
+    },
+    "Fried Chicken": {
+        "reason": "Contains chicken and aligns with his protein-rich preferences. The crispy texture might appeal to his adventurous side.",
+        "rating": 1.65
+    },
+    "Mac and Cheese": {
+        "reason": "Rich and creamy but doesn\u2019t align with his protein-rich or spicy preferences.",
+        "rating": 0.9
+    },
+    "Apple Pie": {
+        "reason": "A dessert that doesn\u2019t align with his health and fitness goals, but its flavor might appeal.",
+        "rating": 0.9
+    },
+    "Marinated Pork Tacos": {
+        "reason": "Aligns well with his cultural preferences and protein-rich diet. The flavors and spiciness make it a strong match.",
+        "rating": 1.85
+    },
+    "Stuffed Poblano Chiles": {
+        "reason": "Aligns very well with his cultural and dietary preferences, with adventurous flavors and protein-rich ingredients.",
+        "rating": 1.9
+    },
+    "Guacamole": {
+        "reason": "A culturally relevant dish that could complement other dishes, though it lacks protein.",
+        "rating": 1.25
+    },
+    "Pozole": {
+        "reason": "A traditional, culturally relevant dish that aligns with his protein-rich and spicy preferences.",
+        "rating": 1.8
+    },
+    "Kimchi": {
+        "reason": "A spicy and adventurous dish, but it lacks protein and doesn\u2019t align strongly with his cultural preferences.",
+        "rating": 1.15
+    },
+    "Mixed Rice Bowl": {
+        "reason": "Contains beef and aligns with his protein-rich preferences, though the spice level might not be high.",
+        "rating": 1.5
+    },
+    "Grilled Marinated Beef": {
+        "reason": "Contains beef and aligns well with his protein-rich and adventurous eating preferences.",
+        "rating": 1.7
+    },
+    "Stir-Fried Noodles": {
+        "reason": "A vegetarian dish that doesn\u2019t align with his protein-rich preferences, though it\u2019s flavorful.",
+        "rating": 0.9
+    },
+    "Borscht": {
+        "reason": "A hearty dish but doesn\u2019t strongly align with his dietary or cultural preferences.",
+        "rating": 1.0
+    },
+    "Pelmeni": {
+        "reason": "Contains pork and beef, which align with his protein-rich preferences. The flavors might appeal to his adventurous side.",
+        "rating": 1.5
+    },
+    "Beef Stroganoff": {
+        "reason": "Contains beef and aligns with his protein-rich preferences. The creamy sauce might appeal to his adventurous side.",
+        "rating": 1.6
+    },
+    "Potato Salad": {
+        "reason": "A simple dish that doesn\u2019t align strongly with his dietary preferences, though it might appeal as a side.",
+        "rating": 1.0
+    }
+}

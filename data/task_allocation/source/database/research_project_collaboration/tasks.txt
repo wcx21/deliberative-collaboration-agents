@@ -1,0 +1,15 @@
+Define research question and scope
+Summarize key related work and baselines
+Design experiment plan and evaluation protocol
+Implement baseline method
+Implement proposed method or key component
+Build data preprocessing / loader pipeline
+Run sanity checks and debugging experiments
+Run main experiments
+Run ablation studies
+Analyze results and produce plots/tables
+Draft core paper sections (method/experiments)
+Revise writing and tighten argumentation
+Package code and write a reproducibility README
+Prepare slides for an internal presentation
+

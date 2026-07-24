@@ -1,0 +1,314 @@
+{
+    "Shrimp Dumplings": {
+        "reason": "Contains shrimp which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Sweet and Sour Pork": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Wonton Soup": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Hainanese Chicken Rice": {
+        "reason": "Contains chicken, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "BBQ Pork": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Steamed Fish with Ginger and Scallions": {
+        "reason": "Contains fish, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Claypot Rice": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Lotus Root and Pork Soup": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Peking Duck": {
+        "reason": "Contains duck, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Fried Sauce Noodles": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Hand-Pulled Noodles": {
+        "reason": "Contains beef, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Steamed Buns": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Big Plate Chicken": {
+        "reason": "Contains chicken, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Pan-Fried Dumplings": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Twice-Cooked Pork": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Spaghetti Carbonara": {
+        "reason": "Contains cheese and eggs, which are acceptable, but also conflicts with preference for protein-rich meals.",
+        "rating": 0.8
+    },
+    "Margherita Pizza": {
+        "reason": "Vegetarian and contains familiar ingredients, but not protein-rich.",
+        "rating": 1.2
+    },
+    "Saffron Risotto": {
+        "reason": "Vegetarian, but not strongly aligned with protein-rich preference.",
+        "rating": 1.0
+    },
+    "Lasagna": {
+        "reason": "Contains beef, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Tiramisu": {
+        "reason": "Vegetarian and an indulgent dessert option, though not aligned with dietary goals.",
+        "rating": 1.1
+    },
+    "Caprese Salad": {
+        "reason": "Vegetarian and fresh, but lacks strong protein content.",
+        "rating": 1.3
+    },
+    "Braised Veal Shanks": {
+        "reason": "Contains veal, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Panna Cotta": {
+        "reason": "Vegetarian, but indulgent and not aligned with protein-rich goals.",
+        "rating": 1.0
+    },
+    "Ratatouille": {
+        "reason": "Vegetarian and aligns with cultural preferences for hearty dishes.",
+        "rating": 1.4
+    },
+    "Braised Chicken in Red Wine": {
+        "reason": "Contains chicken, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Fish Stew": {
+        "reason": "Contains fish, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Quiche": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Beef Stew": {
+        "reason": "Contains beef, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Ham and Cheese Sandwich": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "French Onion Soup": {
+        "reason": "Contains beef bones, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Cr\u00e8me Br\u00fbl\u00e9e": {
+        "reason": "Vegetarian dessert option but does not align with protein-rich goals.",
+        "rating": 1.0
+    },
+    "Sushi": {
+        "reason": "Contains fish, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Ramen": {
+        "reason": "Contains chicken and eggs, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Tempura": {
+        "reason": "Contains shrimp, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Octopus Balls": {
+        "reason": "Contains octopus, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Miso Soup": {
+        "reason": "Vegetarian-friendly and aligns well with dietary preferences.",
+        "rating": 1.5
+    },
+    "Savory Pancake": {
+        "reason": "Contains pork, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Rice Balls": {
+        "reason": "Vegetarian and simple, aligns somewhat with preferences but lacks protein.",
+        "rating": 1.2
+    },
+    "Matcha Ice Cream": {
+        "reason": "Vegetarian dessert but indulgent and not aligned with protein needs.",
+        "rating": 1.0
+    },
+    "Butter Chicken": {
+        "reason": "Contains chicken, which is against vegetarian preference.",
+        "rating": 0
+    },
+    "Biryani": {
+        "reason": "Contains chicken which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Masala Dosa": {
+        "reason": "Vegetarian and aligns with cultural preferences for traditional Indian dishes.",
+        "rating": 1.75
+    },
+    "Spinach and Paneer Curry": {
+        "reason": "Vegetarian, protein-rich, and culturally appropriate.",
+        "rating": 1.9
+    },
+    "Samosa": {
+        "reason": "Vegetarian and snack-friendly but indulgent deep-fried preparation may slightly lower the rating.",
+        "rating": 1.5
+    },
+    "Tandoori Chicken": {
+        "reason": "Contains chicken which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Naan": {
+        "reason": "Vegetarian, culturally appropriate, and pairs well with other preferred dishes.",
+        "rating": 1.6
+    },
+    "Gulab Jamun": {
+        "reason": "Vegetarian and culturally significant dessert but not protein-rich.",
+        "rating": 1.4
+    },
+    "Pad Thai": {
+        "reason": "Contains shrimp which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Coconut Rice": {
+        "reason": "Vegetarian but not culturally aligned and lacks protein focus.",
+        "rating": 1.1
+    },
+    "Pho": {
+        "reason": "Contains beef which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Adobo": {
+        "reason": "Contains chicken which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Laksa": {
+        "reason": "Contains shrimp which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Satay": {
+        "reason": "Contains chicken which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Papaya Salad": {
+        "reason": "Vegetarian but not culturally aligned and lacks protein focus.",
+        "rating": 1.15
+    },
+    "Banh Mi": {
+        "reason": "Contains pork which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Moussaka": {
+        "reason": "Contains beef and pork which conflict with vegetarian preference.",
+        "rating": 0
+    },
+    "Spinach Pie": {
+        "reason": "Vegetarian and contains spinach, which aligns with protein-rich focus.",
+        "rating": 1.7
+    },
+    "Grilled Meat Skewers": {
+        "reason": "Contains pork which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Tzatziki": {
+        "reason": "Vegetarian but not culturally aligned and lacks protein focus.",
+        "rating": 1.2
+    },
+    "Greek Salad": {
+        "reason": "Vegetarian but not culturally aligned and lacks protein focus.",
+        "rating": 1.15
+    },
+    "Baklava": {
+        "reason": "Vegetarian but indulgent and not protein-rich.",
+        "rating": 1.1
+    },
+    "Egg-Lemon Soup": {
+        "reason": "Contains chicken which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Cheeseburger": {
+        "reason": "Contains beef which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Fried Chicken": {
+        "reason": "Contains chicken which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Mac and Cheese": {
+        "reason": "Vegetarian but not culturally aligned and lacks protein focus.",
+        "rating": 1.25
+    },
+    "Apple Pie": {
+        "reason": "Vegetarian but not culturally relevant and lacks protein focus.",
+        "rating": 1.2
+    },
+    "Marinated Pork Tacos": {
+        "reason": "Contains pork which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Stuffed Poblano Chiles": {
+        "reason": "Contains pork which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Guacamole": {
+        "reason": "Vegetarian but not culturally aligned and lacks protein focus.",
+        "rating": 1.1
+    },
+    "Pozole": {
+        "reason": "Contains pork which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Kimchi": {
+        "reason": "Vegetarian but not culturally aligned and lacks protein focus.",
+        "rating": 1.2
+    },
+    "Mixed Rice Bowl": {
+        "reason": "Vegetarian-friendly option but not culturally aligned and lacks protein focus.",
+        "rating": 1.3
+    },
+    "Grilled Marinated Beef": {
+        "reason": "Contains beef which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Stir-Fried Noodles": {
+        "reason": "Vegetarian and contains spinach, which aligns with protein focus.",
+        "rating": 1.45
+    },
+    "Borscht": {
+        "reason": "Vegetarian-friendly but not culturally aligned and lacks protein focus.",
+        "rating": 1.1
+    },
+    "Pelmeni": {
+        "reason": "Contains pork and beef which conflict with vegetarian preference.",
+        "rating": 0
+    },
+    "Beef Stroganoff": {
+        "reason": "Contains beef which conflicts with vegetarian preference.",
+        "rating": 0
+    },
+    "Potato Salad": {
+        "reason": "Vegetarian but not culturally aligned and lacks protein focus.",
+        "rating": 1.2
+    }
+}

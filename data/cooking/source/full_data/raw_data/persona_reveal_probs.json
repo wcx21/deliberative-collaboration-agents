@@ -1,0 +1,30 @@
+{
+    "Internet Agent": {
+        "Name": 1.0,
+        "Gender": 1.0,
+        "Nationality": 1.0,
+        "Age": 1.0,
+        "Occupation": 0.7,
+        "Recent Status": 0.6,
+        "Dietary Preferences": 0.6,
+        "Food Allergies": 0.7,
+        "Cultural Preferences": 0.6,
+        "Health and Fitness Goals": 0.4,
+        "Personality and Dining Style": 0.5,
+        "Ethical and Religious Considerations": 0.5
+    },
+    "Home Agent": {
+        "Name": 1.0,
+        "Gender": 1.0,
+        "Nationality": 1.0,
+        "Age": 1.0,
+        "Occupation": 0.6,
+        "Recent Status": 0.6,
+        "Dietary Preferences": 0.7,
+        "Food Allergies": 0.8,
+        "Cultural Preferences": 0.6,
+        "Health and Fitness Goals": 0.5,
+        "Personality and Dining Style": 0.7,
+        "Ethical and Religious Considerations": 0.6
+    }
+}

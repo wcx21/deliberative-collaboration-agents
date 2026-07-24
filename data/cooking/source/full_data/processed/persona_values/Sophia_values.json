@@ -1,0 +1,314 @@
+{
+    "Shrimp Dumplings": {
+        "reason": "Contains milk and wheat flour, which conflicts with dietary restrictions and preferences.",
+        "rating": 0
+    },
+    "Sweet and Sour Pork": {
+        "reason": "High sugar content goes against low-carb preferences, though indulgent flavors may appeal slightly.",
+        "rating": 0.8
+    },
+    "Wonton Soup": {
+        "reason": "Contains pork and no explicit conflicts with dietary preferences but is not particularly aligned with health goals.",
+        "rating": 1.1
+    },
+    "Hainanese Chicken Rice": {
+        "reason": "Low-carb preferences conflict with jasmine rice, but it aligns well with protein-rich and traditional food preferences.",
+        "rating": 1.3
+    },
+    "BBQ Pork": {
+        "reason": "Sugar-heavy glaze conflicts with low-carb focus, but protein-rich pork may appeal slightly.",
+        "rating": 0.9
+    },
+    "Steamed Fish with Ginger and Scallions": {
+        "reason": "Aligns well with dietary preferences and health goals, with no conflicts.",
+        "rating": 1.75
+    },
+    "Claypot Rice": {
+        "reason": "Contains jasmine rice, which conflicts with low-carb preferences, and pork belly is high in fat.",
+        "rating": 0.7
+    },
+    "Lotus Root and Pork Soup": {
+        "reason": "Contains pork and lotus root, which align moderately with dietary preferences.",
+        "rating": 1.2
+    },
+    "Peking Duck": {
+        "reason": "Rich and indulgent, but the thin pancakes may conflict with low-carb preferences.",
+        "rating": 1.4
+    },
+    "Fried Sauce Noodles": {
+        "reason": "Contains wheat noodles, conflicting with the low-carb preference.",
+        "rating": 0.6
+    },
+    "Hand-Pulled Noodles": {
+        "reason": "Contains wheat noodles, conflicting with low-carb preferences, but beef adds protein.",
+        "rating": 0.8
+    },
+    "Steamed Buns": {
+        "reason": "Contains wheat flour and milk, directly conflicting with dietary restrictions.",
+        "rating": 0
+    },
+    "Big Plate Chicken": {
+        "reason": "Contains potatoes, which conflict with low-carb preferences, but chicken aligns with protein-rich goals.",
+        "rating": 1.1
+    },
+    "Pan-Fried Dumplings": {
+        "reason": "Contains wheat flour and milk, directly conflicting with dietary restrictions.",
+        "rating": 0
+    },
+    "Twice-Cooked Pork": {
+        "reason": "Contains pork and aligns moderately with protein-rich preferences but is high in sodium.",
+        "rating": 1.25
+    },
+    "Spaghetti Carbonara": {
+        "reason": "Contains cheese and wheat pasta, directly conflicting with dietary restrictions and low-carb preferences.",
+        "rating": 0
+    },
+    "Margherita Pizza": {
+        "reason": "Contains cheese and wheat flour, directly conflicting with dietary restrictions.",
+        "rating": 0
+    },
+    "Saffron Risotto": {
+        "reason": "Contains cream and jasmine rice, which conflict with dietary restrictions and low-carb focus.",
+        "rating": 0
+    },
+    "Lasagna": {
+        "reason": "Contains wheat flour and cheese, directly conflicting with dietary restrictions.",
+        "rating": 0
+    },
+    "Tiramisu": {
+        "reason": "Contains cream, which conflicts with dietary restrictions, and is high in sugar.",
+        "rating": 0
+    },
+    "Caprese Salad": {
+        "reason": "Contains cheese, which conflicts with dietary restrictions.",
+        "rating": 0
+    },
+    "Braised Veal Shanks": {
+        "reason": "Contains veal, which aligns with protein goals, and no conflicts with preferences.",
+        "rating": 1.6
+    },
+    "Panna Cotta": {
+        "reason": "Contains cream, which directly conflicts with dietary restrictions.",
+        "rating": 0
+    },
+    "Ratatouille": {
+        "reason": "A healthy vegetarian dish that aligns well with low-carb preferences and has no conflicts.",
+        "rating": 1.8
+    },
+    "Braised Chicken in Red Wine": {
+        "reason": "Aligns well with protein-rich and low-carb preferences, with no major conflicts.",
+        "rating": 1.7
+    },
+    "Fish Stew": {
+        "reason": "Contains white fish and aligns well with protein-rich and low-carb preferences.",
+        "rating": 1.75
+    },
+    "Quiche": {
+        "reason": "Contains cream, cheese, and wheat flour, directly conflicting with dietary restrictions.",
+        "rating": 0
+    },
+    "Beef Stew": {
+        "reason": "Aligns well with protein-rich and low-carb preferences, with no major conflicts.",
+        "rating": 1.65
+    },
+    "Ham and Cheese Sandwich": {
+        "reason": "Contains cheese and wheat flour, directly conflicting with dietary restrictions.",
+        "rating": 0
+    },
+    "French Onion Soup": {
+        "reason": "Contains beef bones and onions, aligning moderately with preferences, though slightly high in sodium.",
+        "rating": 1.3
+    },
+    "Cr\u00e8me Br\u00fbl\u00e9e": {
+        "reason": "Contains cream, which directly conflicts with dietary restrictions.",
+        "rating": 0
+    },
+    "Sushi": {
+        "reason": "Contains jasmine rice, which conflicts with low-carb preferences, but the sea bass is protein-rich.",
+        "rating": 1.2
+    },
+    "Ramen": {
+        "reason": "Contains wheat noodles and broth, conflicting with low-carb preferences.",
+        "rating": 0.7
+    },
+    "Tempura": {
+        "reason": "Fried and contains wheat flour, conflicting with dietary restrictions and preferences.",
+        "rating": 0.5
+    },
+    "Octopus Balls": {
+        "reason": "Contains wheat flour, conflicting with low-carb preferences, but octopus may appeal slightly.",
+        "rating": 0.6
+    },
+    "Miso Soup": {
+        "reason": "A healthy dish with no conflicts and aligns with low-carb preferences.",
+        "rating": 1.7
+    },
+    "Savory Pancake": {
+        "reason": "Contains wheat flour and pork belly, conflicting with low-carb preferences.",
+        "rating": 0.5
+    },
+    "Rice Balls": {
+        "reason": "Contains jasmine rice, which conflicts with low-carb preferences.",
+        "rating": 0.6
+    },
+    "Matcha Ice Cream": {
+        "reason": "Contains cream, which directly conflicts with dietary restrictions.",
+        "rating": 0
+    },
+    "Butter Chicken": {
+        "reason": "Aligns well with protein-rich and low-carb preferences, though slightly high in calories.",
+        "rating": 1.5
+    },
+    "Biryani": {
+        "reason": "Contains chicken and medium spice level fits her preference; no conflicts with dietary preferences.",
+        "rating": 1.35
+    },
+    "Masala Dosa": {
+        "reason": "Contains cream and is high-carb; conflicts with her low-carb focus and dairy-free preference.",
+        "rating": 0.85
+    },
+    "Spinach and Paneer Curry": {
+        "reason": "Paneer is dairy-based and conflicts with her dairy-free preference.",
+        "rating": 0.5
+    },
+    "Samosa": {
+        "reason": "High-carb and deep-fried, not aligned with her low-carb and healthy dietary preferences.",
+        "rating": 0.75
+    },
+    "Tandoori Chicken": {
+        "reason": "Chicken fits her protein-rich and low-carb preferences; no dairy conflict.",
+        "rating": 1.5
+    },
+    "Naan": {
+        "reason": "Contains cream and wheat flour, conflicting with her low-carb and dairy-free focus.",
+        "rating": 0.6
+    },
+    "Gulab Jamun": {
+        "reason": "Made with cream, conflicts with her dairy-free preference.",
+        "rating": 0.0
+    },
+    "Pad Thai": {
+        "reason": "Contains rice noodles and shrimp, which align with her adventurous eating but are not low-carb.",
+        "rating": 1.1
+    },
+    "Coconut Rice": {
+        "reason": "High-carb dish, conflicting with her low-carb focus.",
+        "rating": 0.8
+    },
+    "Pho": {
+        "reason": "Aromatic and protein-rich, but rice noodles slightly conflict with her low-carb focus.",
+        "rating": 1.25
+    },
+    "Adobo": {
+        "reason": "Chicken aligns with protein-rich focus, and no dairy conflict.",
+        "rating": 1.4
+    },
+    "Laksa": {
+        "reason": "Contains rice noodles and is spicy, which she may enjoy but conflicts with her low-carb preference.",
+        "rating": 1.0
+    },
+    "Satay": {
+        "reason": "Chicken aligns with her protein-rich and low-carb focus, and she may enjoy the peanut flavors.",
+        "rating": 1.45
+    },
+    "Papaya Salad": {
+        "reason": "Light and refreshing, aligns with her healthy eating focus.",
+        "rating": 1.5
+    },
+    "Banh Mi": {
+        "reason": "Contains wheat flour and is high-carb, conflicting with her low-carb preference.",
+        "rating": 0.75
+    },
+    "Moussaka": {
+        "reason": "Beef aligns with her protein-rich focus, but potatoes slightly conflict with her low-carb focus.",
+        "rating": 1.2
+    },
+    "Spinach Pie": {
+        "reason": "Contains eggs and spinach, which are protein-rich, but pastry conflicts with her low-carb focus.",
+        "rating": 0.9
+    },
+    "Grilled Meat Skewers": {
+        "reason": "Pork is protein-rich and aligns with her low-carb focus.",
+        "rating": 1.4
+    },
+    "Tzatziki": {
+        "reason": "Contains cream, which conflicts with her dairy-free preference.",
+        "rating": 0.0
+    },
+    "Greek Salad": {
+        "reason": "Simple, fresh, and aligns well with her healthy eating focus.",
+        "rating": 1.55
+    },
+    "Baklava": {
+        "reason": "Contains cream and wheat flour, conflicting with her low-carb and dairy-free focus.",
+        "rating": 0.5
+    },
+    "Egg-Lemon Soup": {
+        "reason": "Chicken and eggs align with her protein-rich focus, and no dairy conflict.",
+        "rating": 1.4
+    },
+    "Cheeseburger": {
+        "reason": "Contains cheese and wheat flour, conflicting with her dairy-free and low-carb focus.",
+        "rating": 0.5
+    },
+    "Fried Chicken": {
+        "reason": "Contains cream, conflicting with her dairy-free preference.",
+        "rating": 0.0
+    },
+    "Mac and Cheese": {
+        "reason": "Contains cream and cheese, conflicting with her dairy-free preference.",
+        "rating": 0.0
+    },
+    "Apple Pie": {
+        "reason": "Contains cream and is high-carb, conflicting with her dietary focus.",
+        "rating": 0.5
+    },
+    "Marinated Pork Tacos": {
+        "reason": "Protein-rich pork aligns with her focus, but tortillas may conflict with her low-carb preference.",
+        "rating": 1.1
+    },
+    "Stuffed Poblano Chiles": {
+        "reason": "Contains cream, conflicting with her dairy-free preference.",
+        "rating": 0.0
+    },
+    "Guacamole": {
+        "reason": "Fresh and healthy, aligns with her dietary focus and adventurous eating style.",
+        "rating": 1.6
+    },
+    "Pozole": {
+        "reason": "Protein-rich pork aligns with her focus, but hominy slightly conflicts with her low-carb preference.",
+        "rating": 1.2
+    },
+    "Kimchi": {
+        "reason": "Spicy and tangy, aligns with her adventurous eating style and healthy focus.",
+        "rating": 1.5
+    },
+    "Mixed Rice Bowl": {
+        "reason": "Rice conflicts with her low-carb focus, but vegetables and protein align with her health goals.",
+        "rating": 1.1
+    },
+    "Grilled Marinated Beef": {
+        "reason": "Beef aligns with her protein-rich and low-carb focus; grilling matches her healthy eating style.",
+        "rating": 1.6
+    },
+    "Stir-Fried Noodles": {
+        "reason": "Contains wheat noodles, conflicting with her low-carb focus.",
+        "rating": 0.8
+    },
+    "Borscht": {
+        "reason": "Vegetable-rich soup aligns with her healthy focus, but beetroot may not completely align with low-carb.",
+        "rating": 1.1
+    },
+    "Pelmeni": {
+        "reason": "Contains wheat flour, conflicting with her low-carb focus.",
+        "rating": 0.85
+    },
+    "Beef Stroganoff": {
+        "reason": "Beef aligns with her protein-rich focus, but creamy sauce conflicts with her dairy-free preference.",
+        "rating": 0.6
+    },
+    "Potato Salad": {
+        "reason": "Contains potatoes, conflicting with her low-carb focus.",
+        "rating": 0.75
+    }
+}

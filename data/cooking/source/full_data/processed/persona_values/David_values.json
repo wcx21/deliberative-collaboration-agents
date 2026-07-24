@@ -1,0 +1,314 @@
+{
+    "Shrimp Dumplings": {
+        "reason": "Contains wheat flour, which is not gluten-free, and David is gluten-free.",
+        "rating": 0
+    },
+    "Sweet and Sour Pork": {
+        "reason": "No conflicts with preferences, but not particularly aligned with his dietary focus.",
+        "rating": 1.1
+    },
+    "Wonton Soup": {
+        "reason": "Contains wheat flour and David is gluten-free.",
+        "rating": 0
+    },
+    "Hainanese Chicken Rice": {
+        "reason": "No conflicts with preferences, includes protein-rich chicken.",
+        "rating": 1.3
+    },
+    "BBQ Pork": {
+        "reason": "No conflicts with preferences and David enjoys indulgent foods.",
+        "rating": 1.25
+    },
+    "Steamed Fish with Ginger and Scallions": {
+        "reason": "No conflicts with preferences, mild flavor suits his spice level preference.",
+        "rating": 1.4
+    },
+    "Claypot Rice": {
+        "reason": "Contains wheat flour and David is gluten-free.",
+        "rating": 0
+    },
+    "Lotus Root and Pork Soup": {
+        "reason": "No conflicts with preferences, nourishing and protein-rich dish.",
+        "rating": 1.35
+    },
+    "Peking Duck": {
+        "reason": "No conflicts with preferences but not as protein-focused as preferred.",
+        "rating": 1.2
+    },
+    "Fried Sauce Noodles": {
+        "reason": "Contains wheat noodles, which are not gluten-free.",
+        "rating": 0
+    },
+    "Hand-Pulled Noodles": {
+        "reason": "Contains wheat noodles, which are not gluten-free.",
+        "rating": 0
+    },
+    "Steamed Buns": {
+        "reason": "Contains wheat flour, which is not gluten-free.",
+        "rating": 0
+    },
+    "Big Plate Chicken": {
+        "reason": "No conflicts with preferences, but spicy flavors may not suit David's mild spice preference.",
+        "rating": 0.9
+    },
+    "Pan-Fried Dumplings": {
+        "reason": "Contains wheat flour, which is not gluten-free.",
+        "rating": 0
+    },
+    "Twice-Cooked Pork": {
+        "reason": "No conflicts with preferences and includes protein-rich pork.",
+        "rating": 1.3
+    },
+    "Spaghetti Carbonara": {
+        "reason": "Contains eggs, which David is allergic to.",
+        "rating": 0
+    },
+    "Margherita Pizza": {
+        "reason": "Contains wheat flour, which is not gluten-free.",
+        "rating": 0
+    },
+    "Saffron Risotto": {
+        "reason": "No conflicts with preferences but not particularly protein-rich.",
+        "rating": 1.05
+    },
+    "Lasagna": {
+        "reason": "Contains wheat flour, which is not gluten-free.",
+        "rating": 0
+    },
+    "Tiramisu": {
+        "reason": "Contains eggs, which David is allergic to.",
+        "rating": 0
+    },
+    "Caprese Salad": {
+        "reason": "No conflicts with preferences, light and fresh option.",
+        "rating": 1.1
+    },
+    "Braised Veal Shanks": {
+        "reason": "No conflicts with preferences, protein-rich and indulgent.",
+        "rating": 1.4
+    },
+    "Panna Cotta": {
+        "reason": "Contains eggs, which David is allergic to.",
+        "rating": 0
+    },
+    "Ratatouille": {
+        "reason": "No conflicts with preferences, aligns with David's love for French cuisine.",
+        "rating": 1.3
+    },
+    "Braised Chicken in Red Wine": {
+        "reason": "No conflicts with preferences, aligns with French cuisine preference and protein focus.",
+        "rating": 1.45
+    },
+    "Fish Stew": {
+        "reason": "No conflicts with preferences, protein-rich and mild flavor.",
+        "rating": 1.4
+    },
+    "Quiche": {
+        "reason": "Contains eggs, which David is allergic to.",
+        "rating": 0
+    },
+    "Beef Stew": {
+        "reason": "No conflicts with preferences, hearty and protein-rich.",
+        "rating": 1.4
+    },
+    "Ham and Cheese Sandwich": {
+        "reason": "Contains wheat flour, which is not gluten-free.",
+        "rating": 0
+    },
+    "French Onion Soup": {
+        "reason": "No conflicts with preferences, aligns with French cuisine preference.",
+        "rating": 1.3
+    },
+    "Cr\u00e8me Br\u00fbl\u00e9e": {
+        "reason": "Contains eggs, which David is allergic to.",
+        "rating": 0
+    },
+    "Sushi": {
+        "reason": "No conflicts with preferences, protein-rich and light.",
+        "rating": 1.35
+    },
+    "Ramen": {
+        "reason": "Contains wheat noodles, which are not gluten-free.",
+        "rating": 0
+    },
+    "Tempura": {
+        "reason": "Contains wheat flour, which is not gluten-free.",
+        "rating": 0
+    },
+    "Octopus Balls": {
+        "reason": "Contains eggs, which David is allergic to.",
+        "rating": 0
+    },
+    "Miso Soup": {
+        "reason": "No conflicts with preferences, light and comforting.",
+        "rating": 1.2
+    },
+    "Savory Pancake": {
+        "reason": "Contains wheat flour, which is not gluten-free.",
+        "rating": 0
+    },
+    "Rice Balls": {
+        "reason": "No conflicts with preferences, simple and snack-friendly.",
+        "rating": 1.25
+    },
+    "Matcha Ice Cream": {
+        "reason": "Contains eggs, which David is allergic to.",
+        "rating": 0
+    },
+    "Butter Chicken": {
+        "reason": "No conflicts with preferences, protein-rich and flavorful.",
+        "rating": 1.35
+    },
+    "Biryani": {
+        "reason": "Contains chicken thighs which align with protein-rich focus, mild spices fit preference, but not gluten-free.",
+        "rating": 0.9
+    },
+    "Masala Dosa": {
+        "reason": "Gluten-free and vegetarian-friendly dish, but contains potatoes which are higher in carbs.",
+        "rating": 1.1
+    },
+    "Spinach and Paneer Curry": {
+        "reason": "Rich in spinach, fits nutrition focus; contains cream, but paneer may not fully match preferences.",
+        "rating": 1.15
+    },
+    "Samosa": {
+        "reason": "Contains wheat noodles and potatoes, neither aligns with gluten-free or low-carb preferences.",
+        "rating": 0.4
+    },
+    "Tandoori Chicken": {
+        "reason": "Protein-rich chicken dish with smoky flavors and no gluten; fits dietary and cultural preferences.",
+        "rating": 1.6
+    },
+    "Naan": {
+        "reason": "Contains wheat flour, not gluten-free; may be indulgent but conflicts with dietary needs.",
+        "rating": 0.3
+    },
+    "Gulab Jamun": {
+        "reason": "Dessert with cream and sugar, indulgent but not protein-rich or fitting health goals.",
+        "rating": 0.6
+    },
+    "Pad Thai": {
+        "reason": "Contains eggs, which align with an allergy; hence, not suitable.",
+        "rating": 0.0
+    },
+    "Coconut Rice": {
+        "reason": "Gluten-free and contains jasmine rice but lacks protein and may not fit muscle-building goals.",
+        "rating": 0.9
+    },
+    "Pho": {
+        "reason": "Uses rice noodles, gluten-free, and beef broth adds protein; aromatic and comforting.",
+        "rating": 1.35
+    },
+    "Adobo": {
+        "reason": "Chicken thighs are protein-rich but dish may not align with low-sodium preference.",
+        "rating": 1.1
+    },
+    "Laksa": {
+        "reason": "Contains shrimp and tofu puffs, mildly spicy, but not gluten-free due to rice noodles.",
+        "rating": 0.8
+    },
+    "Satay": {
+        "reason": "Protein-rich chicken breast skewers with peanut sauce, fits dietary goals but may be indulgent.",
+        "rating": 1.4
+    },
+    "Papaya Salad": {
+        "reason": "Vegetable-based, refreshing, and gluten-free; aligns with mild spice preference.",
+        "rating": 1.2
+    },
+    "Banh Mi": {
+        "reason": "Contains wheat flour, not gluten-free; pork belly may be indulgent but not protein-rich.",
+        "rating": 0.5
+    },
+    "Moussaka": {
+        "reason": "Beef chuck is protein-rich, but contains potatoes and may be indulgent; mildly fits preferences.",
+        "rating": 1.05
+    },
+    "Spinach Pie": {
+        "reason": "Contains eggs, which align with an allergy; hence, not suitable.",
+        "rating": 0.0
+    },
+    "Grilled Meat Skewers": {
+        "reason": "Protein-rich pork shoulder, aligns with dining style and dietary goals.",
+        "rating": 1.4
+    },
+    "Tzatziki": {
+        "reason": "Contains cream, may be indulgent but not protein-rich; refreshing dip.",
+        "rating": 0.8
+    },
+    "Greek Salad": {
+        "reason": "Fresh vegetables, gluten-free, aligns with mild preference; lacks protein but refreshing.",
+        "rating": 1.1
+    },
+    "Baklava": {
+        "reason": "Contains wheat flour and cream, not gluten-free; indulgence fits comfort food preference.",
+        "rating": 0.5
+    },
+    "Egg-Lemon Soup": {
+        "reason": "Contains eggs, which align with an allergy; hence, not suitable.",
+        "rating": 0.0
+    },
+    "Cheeseburger": {
+        "reason": "Contains wheat flour, not gluten-free but beef is protein-rich; indulgent comfort food.",
+        "rating": 0.7
+    },
+    "Fried Chicken": {
+        "reason": "Chicken is protein-rich, indulgent but contains cream; slightly aligns with preferences.",
+        "rating": 1.2
+    },
+    "Mac and Cheese": {
+        "reason": "Contains wheat and cream, not gluten-free; indulgent comfort food but lacks protein focus.",
+        "rating": 0.4
+    },
+    "Apple Pie": {
+        "reason": "Contains cream and wheat flour, not gluten-free but indulgent and fits comfort preferences.",
+        "rating": 0.5
+    },
+    "Marinated Pork Tacos": {
+        "reason": "Pork shoulder is protein-rich but contains wheat flour, not gluten-free.",
+        "rating": 0.6
+    },
+    "Stuffed Poblano Chiles": {
+        "reason": "Contains cream, pork belly is indulgent but protein-rich; aligns moderately with preferences.",
+        "rating": 1.0
+    },
+    "Guacamole": {
+        "reason": "Fresh and gluten-free, fits snack-friendly preference but lacks protein.",
+        "rating": 1.1
+    },
+    "Pozole": {
+        "reason": "Pork shoulder adds protein, gluten-free but may not fit low-sodium preference.",
+        "rating": 1.2
+    },
+    "Kimchi": {
+        "reason": "Vegetable-based, mild spice, gluten-free; aligns with dietary preferences.",
+        "rating": 1.3
+    },
+    "Mixed Rice Bowl": {
+        "reason": "Gluten-free with jasmine rice and spinach, but lacks strong protein focus.",
+        "rating": 1.1
+    },
+    "Grilled Marinated Beef": {
+        "reason": "Beef sirloin is protein-rich, aligns with muscle-building focus and dining style.",
+        "rating": 1.5
+    },
+    "Stir-Fried Noodles": {
+        "reason": "Contains wheat noodles, not gluten-free, but spinach and mushrooms add nutrition.",
+        "rating": 0.6
+    },
+    "Borscht": {
+        "reason": "Vegetable-based, gluten-free, and comforting, but lacks protein focus.",
+        "rating": 1.1
+    },
+    "Pelmeni": {
+        "reason": "Contains wheat flour, not gluten-free; protein-rich but unsuitable for dietary restrictions.",
+        "rating": 0.5
+    },
+    "Beef Stroganoff": {
+        "reason": "Beef chuck is protein-rich, but contains cream and may be indulgent.",
+        "rating": 1.2
+    },
+    "Potato Salad": {
+        "reason": "Contains eggs, which align with an allergy; hence, not suitable.",
+        "rating": 0.0
+    }
+}

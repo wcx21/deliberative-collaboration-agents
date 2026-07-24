@@ -1,0 +1,314 @@
+{
+    "Shrimp Dumplings": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Sweet and Sour Pork": {
+        "reason": "No conflict with preferences, and indulging in such dishes aligns with her dining style.",
+        "rating": 1.4
+    },
+    "Wonton Soup": {
+        "reason": "Light and protein-rich dish with no conflicts to preferences.",
+        "rating": 1.3
+    },
+    "Hainanese Chicken Rice": {
+        "reason": "Traditional, mild-flavored dish with protein-rich chicken; fits her preferences.",
+        "rating": 1.35
+    },
+    "BBQ Pork": {
+        "reason": "Indulgent and flavorful, matching her preferences for bold dishes.",
+        "rating": 1.5
+    },
+    "Steamed Fish with Ginger and Scallions": {
+        "reason": "Mild and healthy dish with no conflicts to preferences.",
+        "rating": 1.3
+    },
+    "Claypot Rice": {
+        "reason": "A comforting, protein-rich dish that fits her indulgent preferences.",
+        "rating": 1.4
+    },
+    "Lotus Root and Pork Soup": {
+        "reason": "Nourishing and protein-rich soup that aligns with her dining preferences.",
+        "rating": 1.35
+    },
+    "Peking Duck": {
+        "reason": "Indulgent and flavorful, matching her preferences for bold and traditional dishes.",
+        "rating": 1.45
+    },
+    "Fried Sauce Noodles": {
+        "reason": "Rich and indulgent dish that aligns with her adventurous eating style.",
+        "rating": 1.4
+    },
+    "Hand-Pulled Noodles": {
+        "reason": "Comforting and protein-rich dish with no conflicts.",
+        "rating": 1.35
+    },
+    "Steamed Buns": {
+        "reason": "Soft and indulgent dish that aligns with her comfort food preferences.",
+        "rating": 1.4
+    },
+    "Big Plate Chicken": {
+        "reason": "Spicy dish conflicts slightly with her mild spice preference.",
+        "rating": 0.9
+    },
+    "Pan-Fried Dumplings": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Twice-Cooked Pork": {
+        "reason": "Bold and indulgent dish that fits her adventurous preferences.",
+        "rating": 1.4
+    },
+    "Spaghetti Carbonara": {
+        "reason": "Traditional Italian dish, aligns with her cultural preferences and indulgent nature.",
+        "rating": 1.8
+    },
+    "Margherita Pizza": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Saffron Risotto": {
+        "reason": "Traditional Italian dish that aligns with her cultural preferences.",
+        "rating": 1.75
+    },
+    "Lasagna": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Tiramisu": {
+        "reason": "Classic Italian dessert, aligns with her indulgent preferences.",
+        "rating": 1.85
+    },
+    "Caprese Salad": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Braised Veal Shanks": {
+        "reason": "Rich and traditional dish that aligns with her preferences for indulgent flavors.",
+        "rating": 1.6
+    },
+    "Panna Cotta": {
+        "reason": "Traditional Italian dessert that aligns with her indulgent preferences.",
+        "rating": 1.8
+    },
+    "Ratatouille": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Braised Chicken in Red Wine": {
+        "reason": "Rich and traditional dish that aligns with her adventurous preferences.",
+        "rating": 1.5
+    },
+    "Fish Stew": {
+        "reason": "Fragrant and healthy dish that aligns with her adventurous preferences.",
+        "rating": 1.35
+    },
+    "Quiche": {
+        "reason": "Rich and indulgent dish that aligns with her comfort food preferences.",
+        "rating": 1.4
+    },
+    "Beef Stew": {
+        "reason": "Comforting and hearty dish that aligns with her indulgent preferences.",
+        "rating": 1.5
+    },
+    "Ham and Cheese Sandwich": {
+        "reason": "Simple and indulgent dish that aligns with her snack-friendly preferences.",
+        "rating": 1.4
+    },
+    "French Onion Soup": {
+        "reason": "Comforting and hearty dish that aligns with her indulgent preferences.",
+        "rating": 1.35
+    },
+    "Cr\u00e8me Br\u00fbl\u00e9e": {
+        "reason": "Indulgent dessert with rich flavors that aligns with her preferences.",
+        "rating": 1.8
+    },
+    "Sushi": {
+        "reason": "Fresh and adventurous dish that fits her adventurous eating style.",
+        "rating": 1.4
+    },
+    "Ramen": {
+        "reason": "Comforting and indulgent, aligning with her adventurous preferences.",
+        "rating": 1.45
+    },
+    "Tempura": {
+        "reason": "Light and indulgent dish that aligns with her adventurous preferences.",
+        "rating": 1.4
+    },
+    "Octopus Balls": {
+        "reason": "Adventurous and indulgent dish that aligns with her dining style.",
+        "rating": 1.35
+    },
+    "Miso Soup": {
+        "reason": "Light and comforting dish with no conflicts.",
+        "rating": 1.3
+    },
+    "Savory Pancake": {
+        "reason": "Rich and indulgent dish that aligns with her adventurous preferences.",
+        "rating": 1.4
+    },
+    "Rice Balls": {
+        "reason": "Simple and comforting, aligns with her snack-friendly preferences.",
+        "rating": 1.35
+    },
+    "Matcha Ice Cream": {
+        "reason": "Unique and indulgent dessert that aligns with her adventurous preferences.",
+        "rating": 1.4
+    },
+    "Butter Chicken": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Biryani": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Masala Dosa": {
+        "reason": "Contains onions, which are acceptable, and aligns with adventurous preferences, but not culturally significant.",
+        "rating": 1.1
+    },
+    "Spinach and Paneer Curry": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Samosa": {
+        "reason": "Fits the person's comfort food preferences and snack-friendly nature, though not Italian cuisine.",
+        "rating": 1.2
+    },
+    "Tandoori Chicken": {
+        "reason": "Contains chicken, which is protein-rich, and aligns with indulgent preferences, though not culturally significant.",
+        "rating": 1.3
+    },
+    "Naan": {
+        "reason": "Comfort food and indulgent preferences, aligns with adventurous eater trait.",
+        "rating": 1.2
+    },
+    "Gulab Jamun": {
+        "reason": "Rich dessert aligns with indulgent preferences, even though it's not culturally significant.",
+        "rating": 1.15
+    },
+    "Pad Thai": {
+        "reason": "Satisfies adventurous eater preferences and contains shrimp, which is protein-rich.",
+        "rating": 1.25
+    },
+    "Coconut Rice": {
+        "reason": "Mild, flavorful, and aligns with adventurous eater preferences, though not Italian cuisine.",
+        "rating": 1.2
+    },
+    "Pho": {
+        "reason": "Contains onions, which is acceptable, and aligns with adventurous eater preferences, though not culturally significant.",
+        "rating": 1.1
+    },
+    "Adobo": {
+        "reason": "Contains chicken, which is protein-rich and satisfies indulgent preferences.",
+        "rating": 1.3
+    },
+    "Laksa": {
+        "reason": "Contains shrimp and aligns with adventurous eater preferences but may be too spicy.",
+        "rating": 1.0
+    },
+    "Satay": {
+        "reason": "Contains chicken and peanuts, aligning with protein-rich and adventurous eater preferences.",
+        "rating": 1.25
+    },
+    "Papaya Salad": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Banh Mi": {
+        "reason": "Contains pork, aligns with adventurous eater preferences, but not culturally relevant.",
+        "rating": 1.15
+    },
+    "Moussaka": {
+        "reason": "Rich and indulgent, aligns with comfort food preferences, but not culturally significant.",
+        "rating": 1.2
+    },
+    "Spinach Pie": {
+        "reason": "Contains spinach and eggs, aligns with adventurous eater preferences.",
+        "rating": 1.25
+    },
+    "Grilled Meat Skewers": {
+        "reason": "Protein-rich meat dish, aligns with indulgent and adventurous eater preferences.",
+        "rating": 1.3
+    },
+    "Tzatziki": {
+        "reason": "Refreshing and indulgent, contains cream and cucumber, aligns with adventurous preferences.",
+        "rating": 1.2
+    },
+    "Greek Salad": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Baklava": {
+        "reason": "Rich dessert aligns with indulgent preferences, though not culturally significant.",
+        "rating": 1.15
+    },
+    "Egg-Lemon Soup": {
+        "reason": "Contains chicken and eggs, aligns with comfort and protein-rich preferences.",
+        "rating": 1.3
+    },
+    "Cheeseburger": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Fried Chicken": {
+        "reason": "Protein-rich and indulgent food, aligns with comfort food preferences.",
+        "rating": 1.3
+    },
+    "Mac and Cheese": {
+        "reason": "Indulgent comfort food, though not culturally significant.",
+        "rating": 1.15
+    },
+    "Apple Pie": {
+        "reason": "Rich dessert aligns with indulgent preferences, though not culturally significant.",
+        "rating": 1.15
+    },
+    "Marinated Pork Tacos": {
+        "reason": "Contains pork and aligns with adventurous eater preferences.",
+        "rating": 1.2
+    },
+    "Stuffed Poblano Chiles": {
+        "reason": "Contains cream and pork, aligns with adventurous eater preferences but may be too spicy.",
+        "rating": 1.0
+    },
+    "Guacamole": {
+        "reason": "Contains tomatoes, which the person is allergic to.",
+        "rating": 0.0
+    },
+    "Pozole": {
+        "reason": "Contains pork, aligns with adventurous eater preferences, but not culturally significant.",
+        "rating": 1.15
+    },
+    "Kimchi": {
+        "reason": "Adventurous dish, but spicy and not culturally relevant.",
+        "rating": 0.95
+    },
+    "Mixed Rice Bowl": {
+        "reason": "Contains spinach and rice, aligns with protein-rich and adventurous eater preferences.",
+        "rating": 1.25
+    },
+    "Grilled Marinated Beef": {
+        "reason": "Protein-rich meat dish, aligns with indulgent and adventurous eater preferences.",
+        "rating": 1.3
+    },
+    "Stir-Fried Noodles": {
+        "reason": "Contains spinach and wheat noodles, aligns with indulgent and adventurous preferences.",
+        "rating": 1.2
+    },
+    "Borscht": {
+        "reason": "Contains beetroot and cabbage, aligns with adventurous eater preferences.",
+        "rating": 1.1
+    },
+    "Pelmeni": {
+        "reason": "Contains pork and beef, aligns with protein-rich and indulgent preferences.",
+        "rating": 1.25
+    },
+    "Beef Stroganoff": {
+        "reason": "Rich and indulgent, aligns with protein-rich preferences.",
+        "rating": 1.3
+    },
+    "Potato Salad": {
+        "reason": "Contains eggs and potato, aligns with comfort food preferences.",
+        "rating": 1.2
+    }
+}

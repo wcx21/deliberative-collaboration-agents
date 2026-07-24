@@ -1,0 +1,314 @@
+{
+    "Shrimp Dumplings": {
+        "reason": "Includes shrimp, which does not conflict with preferences, but it's not a traditional Middle Eastern dish.",
+        "rating": 1.2
+    },
+    "Sweet and Sour Pork": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Wonton Soup": {
+        "reason": "Includes pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Hainanese Chicken Rice": {
+        "reason": "Contains halal chicken and is a comforting dish, though not Middle Eastern.",
+        "rating": 1.3
+    },
+    "BBQ Pork": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Steamed Fish with Ginger and Scallions": {
+        "reason": "Fish is halal, and the dish is light and flavorful, though not traditional.",
+        "rating": 1.35
+    },
+    "Claypot Rice": {
+        "reason": "Includes pork belly, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Lotus Root and Pork Soup": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Peking Duck": {
+        "reason": "Duck is halal, but the dish is not Middle Eastern. May appeal slightly due to social dining preference.",
+        "rating": 1.2
+    },
+    "Fried Sauce Noodles": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Hand-Pulled Noodles": {
+        "reason": "Beef is halal, and the dish seems comforting and hearty, though not traditional.",
+        "rating": 1.4
+    },
+    "Steamed Buns": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Big Plate Chicken": {
+        "reason": "Chicken is halal, and the dish is bold and comforting, aligning with indulgent preferences.",
+        "rating": 1.6
+    },
+    "Pan-Fried Dumplings": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Twice-Cooked Pork": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Spaghetti Carbonara": {
+        "reason": "Contains pork and cheese, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Margherita Pizza": {
+        "reason": "Vegetarian dish with no conflicts, though not Middle Eastern. Comfort food aspect adds appeal.",
+        "rating": 1.5
+    },
+    "Saffron Risotto": {
+        "reason": "Comforting and indulgent dish, though not traditional or Middle Eastern.",
+        "rating": 1.4
+    },
+    "Lasagna": {
+        "reason": "Contains beef, which is halal, but includes cheese which may raise slight concerns.",
+        "rating": 1.15
+    },
+    "Tiramisu": {
+        "reason": "Contains alcohol or non-halal ingredients typically found in tiramisu.",
+        "rating": 0
+    },
+    "Caprese Salad": {
+        "reason": "Vegetarian and simple, aligns with light dining preferences but not indulgent.",
+        "rating": 1.2
+    },
+    "Braised Veal Shanks": {
+        "reason": "Veal is halal, and the dish is hearty, but not Middle Eastern.",
+        "rating": 1.25
+    },
+    "Panna Cotta": {
+        "reason": "Simple and indulgent dessert with no conflicts.",
+        "rating": 1.5
+    },
+    "Ratatouille": {
+        "reason": "Vegetarian and healthy, but not indulgent or traditional.",
+        "rating": 1.2
+    },
+    "Braised Chicken in Red Wine": {
+        "reason": "Contains wine, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Fish Stew": {
+        "reason": "Halal fish dish, but not traditional. Comfort food aspect adds slight appeal.",
+        "rating": 1.3
+    },
+    "Quiche": {
+        "reason": "Contains pork and cheese, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Beef Stew": {
+        "reason": "Beef is halal, and the dish is hearty and comforting, though not traditional.",
+        "rating": 1.4
+    },
+    "Ham and Cheese Sandwich": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "French Onion Soup": {
+        "reason": "Typically contains beef broth, which is halal, but not a Middle Eastern dish.",
+        "rating": 1.3
+    },
+    "Cr\u00e8me Br\u00fbl\u00e9e": {
+        "reason": "Simple and indulgent dessert with no conflicts.",
+        "rating": 1.5
+    },
+    "Sushi": {
+        "reason": "Contains halal fish, but raw fish may not align with comfort food preferences.",
+        "rating": 1.2
+    },
+    "Ramen": {
+        "reason": "Chicken is halal, and the dish is hearty, though not traditional.",
+        "rating": 1.4
+    },
+    "Tempura": {
+        "reason": "Shrimp is halal, and the dish is light and flavorful, though not traditional.",
+        "rating": 1.35
+    },
+    "Octopus Balls": {
+        "reason": "Contains octopus, which is halal, but dish may not align with comfort food preferences.",
+        "rating": 1.1
+    },
+    "Miso Soup": {
+        "reason": "Vegetarian and light, but not indulgent or Middle Eastern.",
+        "rating": 1.2
+    },
+    "Savory Pancake": {
+        "reason": "Contains pork, which is not halal and conflicts with religious considerations.",
+        "rating": 0
+    },
+    "Rice Balls": {
+        "reason": "Simple and halal, but not particularly indulgent or traditional.",
+        "rating": 1.2
+    },
+    "Matcha Ice Cream": {
+        "reason": "Indulgent dessert with no conflicts, though not traditional.",
+        "rating": 1.4
+    },
+    "Butter Chicken": {
+        "reason": "Halal chicken and rich, comforting flavors align with preferences for indulgence.",
+        "rating": 1.6
+    },
+    "Biryani": {
+        "reason": "Middle Eastern flavors align with cultural preferences and contains no conflicting ingredients.",
+        "rating": 1.65
+    },
+    "Masala Dosa": {
+        "reason": "Dish is vegetarian but does not conflict with preferences; however, it may not align with indulgent style.",
+        "rating": 1.25
+    },
+    "Spinach and Paneer Curry": {
+        "reason": "Comforting and creamy dish but vegetarian and not a traditional Middle Eastern choice.",
+        "rating": 1.2
+    },
+    "Samosa": {
+        "reason": "Snack-friendly and indulgent comfort food aligns with preferences.",
+        "rating": 1.75
+    },
+    "Tandoori Chicken": {
+        "reason": "Halal-compliant, indulgent, and aligns with comfort food preference.",
+        "rating": 1.9
+    },
+    "Naan": {
+        "reason": "Simple flatbread that pairs well with other dishes but not indulgent on its own.",
+        "rating": 1.3
+    },
+    "Gulab Jamun": {
+        "reason": "Rich and indulgent dessert aligns with preferences for sweet and comforting foods.",
+        "rating": 1.8
+    },
+    "Pad Thai": {
+        "reason": "Contains shrimp, which may not typically align with cultural preferences, though not strictly avoided.",
+        "rating": 1.05
+    },
+    "Coconut Rice": {
+        "reason": "Mild and comforting but not strongly aligned with Middle Eastern preferences.",
+        "rating": 1.15
+    },
+    "Pho": {
+        "reason": "Beef and simple ingredients are acceptable, but it does not align with cultural or comfort preferences.",
+        "rating": 1.1
+    },
+    "Adobo": {
+        "reason": "Chicken-based dish aligns with halal preferences but not strongly indulgent or Middle Eastern.",
+        "rating": 1.4
+    },
+    "Laksa": {
+        "reason": "Spicy and creamy but contains shrimp, which may not align with preferences.",
+        "rating": 0.95
+    },
+    "Satay": {
+        "reason": "Halal chicken and indulgent peanut sauce align well with preferences.",
+        "rating": 1.7
+    },
+    "Papaya Salad": {
+        "reason": "Light and refreshing but not indulgent or Middle Eastern.",
+        "rating": 1.1
+    },
+    "Banh Mi": {
+        "reason": "Contains pork, which conflicts with halal dietary requirements.",
+        "rating": 0
+    },
+    "Moussaka": {
+        "reason": "Rich and indulgent casserole aligns well with comfort preferences.",
+        "rating": 1.75
+    },
+    "Spinach Pie": {
+        "reason": "Comforting and indulgent but vegetarian and not traditional Middle Eastern.",
+        "rating": 1.35
+    },
+    "Grilled Meat Skewers": {
+        "reason": "Simple and indulgent grilled meat aligns well with preferences.",
+        "rating": 1.8
+    },
+    "Tzatziki": {
+        "reason": "Refreshing but not strongly indulgent or culturally aligned.",
+        "rating": 1.15
+    },
+    "Greek Salad": {
+        "reason": "Healthy and light but not indulgent or culturally aligned.",
+        "rating": 1.1
+    },
+    "Baklava": {
+        "reason": "Rich and indulgent dessert aligns well with preferences for sweet and comforting foods.",
+        "rating": 1.8
+    },
+    "Egg-Lemon Soup": {
+        "reason": "Comforting and contains halal ingredients, though not strongly culturally aligned.",
+        "rating": 1.4
+    },
+    "Cheeseburger": {
+        "reason": "Contains beef but not culturally aligned and may not feel indulgent enough.",
+        "rating": 1.2
+    },
+    "Fried Chicken": {
+        "reason": "Halal chicken and indulgent preparation align well with preferences.",
+        "rating": 1.85
+    },
+    "Mac and Cheese": {
+        "reason": "Rich and indulgent comfort food aligns well with preferences.",
+        "rating": 1.75
+    },
+    "Apple Pie": {
+        "reason": "Sweet and comforting dessert aligns with indulgent preferences.",
+        "rating": 1.7
+    },
+    "Marinated Pork Tacos": {
+        "reason": "Contains pork, which conflicts with halal dietary requirements.",
+        "rating": 0
+    },
+    "Stuffed Poblano Chiles": {
+        "reason": "Contains pork, which conflicts with halal dietary requirements.",
+        "rating": 0
+    },
+    "Guacamole": {
+        "reason": "Simple and fresh but not indulgent or strongly culturally aligned.",
+        "rating": 1.1
+    },
+    "Pozole": {
+        "reason": "Contains pork, which conflicts with halal dietary requirements.",
+        "rating": 0
+    },
+    "Kimchi": {
+        "reason": "Spicy and tangy but not indulgent or culturally aligned.",
+        "rating": 1.05
+    },
+    "Mixed Rice Bowl": {
+        "reason": "Contains a mix of veggies and rice, but not indulgent or culturally aligned.",
+        "rating": 1.1
+    },
+    "Grilled Marinated Beef": {
+        "reason": "Halal beef and indulgent preparation align well with preferences.",
+        "rating": 1.8
+    },
+    "Stir-Fried Noodles": {
+        "reason": "Contains acceptable ingredients but not strongly indulgent or culturally aligned.",
+        "rating": 1.15
+    },
+    "Borscht": {
+        "reason": "Contains beef but not indulgent or culturally aligned.",
+        "rating": 1.1
+    },
+    "Pelmeni": {
+        "reason": "Contains pork, which conflicts with halal dietary requirements.",
+        "rating": 0
+    },
+    "Beef Stroganoff": {
+        "reason": "Contains halal beef and creamy sauce aligns with indulgent preferences.",
+        "rating": 1.7
+    },
+    "Potato Salad": {
+        "reason": "Simple and comforting but not indulgent or strongly culturally aligned.",
+        "rating": 1.25
+    }
+}

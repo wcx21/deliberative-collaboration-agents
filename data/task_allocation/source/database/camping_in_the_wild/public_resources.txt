@@ -1,0 +1,6 @@
+Food
+Water
+Tools
+Fuel
+Battery power
+

@@ -1,0 +1,314 @@
+{
+    "Shrimp Dumplings": {
+        "reason": "Contains shrimp and wheat flour, which are not low-carb and do not align with the person's dietary preferences.",
+        "rating": 0.75
+    },
+    "Sweet and Sour Pork": {
+        "reason": "High in sugar due to the sweet sauce, not suitable for Liam's low-carb and weight-loss focus.",
+        "rating": 0.65
+    },
+    "Wonton Soup": {
+        "reason": "Pork is acceptable, but the dish includes wheat-based wonton wrappers, which are not low-carb.",
+        "rating": 0.8
+    },
+    "Hainanese Chicken Rice": {
+        "reason": "Chicken is protein-rich, but jasmine rice is not low-carb, which affects its suitability.",
+        "rating": 0.9
+    },
+    "BBQ Pork": {
+        "reason": "Pork is acceptable, but the sweet glaze makes it less suitable for a low-carb diet.",
+        "rating": 0.85
+    },
+    "Steamed Fish with Ginger and Scallions": {
+        "reason": "Sea bass is protein-rich, and the preparation is simple and aligns with Liam's preferences.",
+        "rating": 1.5
+    },
+    "Claypot Rice": {
+        "reason": "Includes jasmine rice, which is not low-carb, and pork belly, which may be too indulgent.",
+        "rating": 0.75
+    },
+    "Lotus Root and Pork Soup": {
+        "reason": "Lotus root is starchy and not low-carb, though pork is acceptable.",
+        "rating": 0.8
+    },
+    "Peking Duck": {
+        "reason": "Duck is a good protein source, but the pancakes and hoisin sauce are not low-carb.",
+        "rating": 0.85
+    },
+    "Fried Sauce Noodles": {
+        "reason": "Wheat noodles are not low-carb, and the dish does not align with Liam's dietary focus.",
+        "rating": 0.6
+    },
+    "Hand-Pulled Noodles": {
+        "reason": "Beef is protein-rich, but wheat noodles are not low-carb.",
+        "rating": 0.7
+    },
+    "Steamed Buns": {
+        "reason": "Wheat flour in the buns is not low-carb and does not align with Liam's preferences.",
+        "rating": 0.5
+    },
+    "Big Plate Chicken": {
+        "reason": "Chicken is good, but potatoes and green peppers are less ideal for a low-carb diet.",
+        "rating": 0.85
+    },
+    "Pan-Fried Dumplings": {
+        "reason": "Includes wheat flour and cabbage, which are not low-carb, making it less suitable.",
+        "rating": 0.6
+    },
+    "Twice-Cooked Pork": {
+        "reason": "Pork belly is indulgent, and the dish includes green peppers, which are less ideal for Liam's focus.",
+        "rating": 0.75
+    },
+    "Spaghetti Carbonara": {
+        "reason": "Macaroni pasta is not low-carb, making it incompatible with Liam's dietary goals.",
+        "rating": 0.5
+    },
+    "Margherita Pizza": {
+        "reason": "Contains wheat flour and cheese, which are not low-carb, and does not align with Liam's preferences.",
+        "rating": 0.6
+    },
+    "Saffron Risotto": {
+        "reason": "Jasmine rice and cream are not low-carb, making it unsuitable for Liam's dietary focus.",
+        "rating": 0.55
+    },
+    "Lasagna": {
+        "reason": "Wheat flour and beef are included, but the pasta layers make it inappropriate for a low-carb diet.",
+        "rating": 0.6
+    },
+    "Tiramisu": {
+        "reason": "Contains cream and sugar, which are not low-carb, and is too indulgent for Liam's preferences.",
+        "rating": 0.4
+    },
+    "Caprese Salad": {
+        "reason": "Tomatoes and spinach are compatible, but there is no significant protein, making it less ideal.",
+        "rating": 1.1
+    },
+    "Braised Veal Shanks": {
+        "reason": "Veal shanks are protein-rich, and the preparation aligns with Liam's preferences.",
+        "rating": 1.6
+    },
+    "Panna Cotta": {
+        "reason": "Contains cream and sugar, which are not low-carb, and is too indulgent for Liam's preferences.",
+        "rating": 0.45
+    },
+    "Ratatouille": {
+        "reason": "Primarily vegetable-based, which lacks protein and may not align with Liam's low-carb focus.",
+        "rating": 0.9
+    },
+    "Braised Chicken in Red Wine": {
+        "reason": "Chicken is protein-rich, and the preparation aligns with Liam's preference for traditional dishes.",
+        "rating": 1.5
+    },
+    "Fish Stew": {
+        "reason": "White fish is protein-rich, and the dish aligns with Liam's dietary and cultural preferences.",
+        "rating": 1.6
+    },
+    "Quiche": {
+        "reason": "Contains wheat flour and cream, which are not low-carb, making it less suitable.",
+        "rating": 0.65
+    },
+    "Beef Stew": {
+        "reason": "Beef is protein-rich, and the preparation aligns with Liam's traditional and comfort food preferences.",
+        "rating": 1.55
+    },
+    "Ham and Cheese Sandwich": {
+        "reason": "Contains wheat flour and cheese, which are not low-carb, making it incompatible with Liam's dietary focus.",
+        "rating": 0.55
+    },
+    "French Onion Soup": {
+        "reason": "Includes caramelized onions and beef bones, which align well with Liam's preferences.",
+        "rating": 1.4
+    },
+    "Cr\u00e8me Br\u00fbl\u00e9e": {
+        "reason": "Contains cream and sugar, which are not low-carb, and is too indulgent for Liam's preferences.",
+        "rating": 0.45
+    },
+    "Sushi": {
+        "reason": "Jasmine rice is not low-carb, though the fish is protein-rich.",
+        "rating": 0.75
+    },
+    "Ramen": {
+        "reason": "Wheat noodles and broth are not low-carb, making it less suitable for Liam's dietary goals.",
+        "rating": 0.6
+    },
+    "Tempura": {
+        "reason": "Battered shrimp is high in carbs and does not align with Liam's dietary preferences.",
+        "rating": 0.45
+    },
+    "Octopus Balls": {
+        "reason": "Contains wheat flour and octopus, which are not low-carb, making it less suitable.",
+        "rating": 0.5
+    },
+    "Miso Soup": {
+        "reason": "Low-carb and light, but lacks protein, making it a neutral choice for Liam.",
+        "rating": 1.0
+    },
+    "Savory Pancake": {
+        "reason": "Contains wheat flour and cabbage, which are not low-carb and do not align with Liam's preferences.",
+        "rating": 0.6
+    },
+    "Rice Balls": {
+        "reason": "Jasmine rice is not low-carb, making it incompatible with Liam's dietary focus.",
+        "rating": 0.5
+    },
+    "Matcha Ice Cream": {
+        "reason": "Contains cream and sugar, which are not low-carb, and is too indulgent for Liam's preferences.",
+        "rating": 0.4
+    },
+    "Butter Chicken": {
+        "reason": "Chicken is protein-rich, and the dish aligns with Liam's comfort food preferences.",
+        "rating": 1.4
+    },
+    "Biryani": {
+        "reason": "Contains rice and is spiced, but not overly conflicting with preferences; however, it's not low-carb.",
+        "rating": 0.85
+    },
+    "Masala Dosa": {
+        "reason": "Contains rice and potatoes, both high-carb, making it unsuitable for a low-carb diet.",
+        "rating": 0.65
+    },
+    "Spinach and Paneer Curry": {
+        "reason": "Contains cream and is vegetarian-friendly; however, not low-carb or protein-rich.",
+        "rating": 0.9
+    },
+    "Samosa": {
+        "reason": "Deep-fried pastry with high-carb ingredients; conflicts with dietary preferences.",
+        "rating": 0.4
+    },
+    "Tandoori Chicken": {
+        "reason": "High in protein, low-carb, and aligns well with preferences; also has mild spices.",
+        "rating": 1.6
+    },
+    "Naan": {
+        "reason": "Made with wheat flour, which is high in carbs, conflicting with preferences.",
+        "rating": 0.5
+    },
+    "Gulab Jamun": {
+        "reason": "High in sugar and cream, indulgent but not aligned with dietary goals.",
+        "rating": 0.35
+    },
+    "Pad Thai": {
+        "reason": "Rice noodles and sweet sauce make it high-carb and not compatible with preferences.",
+        "rating": 0.7
+    },
+    "Coconut Rice": {
+        "reason": "High-carb due to rice, not suitable despite mild flavors.",
+        "rating": 0.6
+    },
+    "Pho": {
+        "reason": "Contains rice noodles and is carb-heavy, but the broth could appeal slightly.",
+        "rating": 0.75
+    },
+    "Adobo": {
+        "reason": "Protein-rich chicken dish with mild flavors, aligns well with preferences.",
+        "rating": 1.5
+    },
+    "Laksa": {
+        "reason": "Creamy and spicy with rice noodles; not suitable for low-carb preferences.",
+        "rating": 0.65
+    },
+    "Satay": {
+        "reason": "High-protein grilled skewers with mild flavors; aligns well with preferences.",
+        "rating": 1.55
+    },
+    "Papaya Salad": {
+        "reason": "Refreshing and mild, but lacks protein and is not a substantial meal.",
+        "rating": 1.1
+    },
+    "Banh Mi": {
+        "reason": "Contains wheat flour and pork, but bread makes it high-carb.",
+        "rating": 0.8
+    },
+    "Moussaka": {
+        "reason": "Rich in protein but contains potatoes, which adds carbs.",
+        "rating": 1.1
+    },
+    "Spinach Pie": {
+        "reason": "Contains spinach and eggs, but phyllo pastry adds carbs.",
+        "rating": 0.9
+    },
+    "Grilled Meat Skewers": {
+        "reason": "High-protein dish with mild flavors, aligns well with preferences.",
+        "rating": 1.6
+    },
+    "Tzatziki": {
+        "reason": "Creamy dip with cucumbers, mild and refreshing, but not a meal.",
+        "rating": 1.2
+    },
+    "Greek Salad": {
+        "reason": "Fresh and mild but lacks protein and is not substantial.",
+        "rating": 1.05
+    },
+    "Baklava": {
+        "reason": "High in sugar and carbs, conflicts with dietary preferences.",
+        "rating": 0.3
+    },
+    "Egg-Lemon Soup": {
+        "reason": "Contains chicken and eggs, making it protein-rich and suitable for preferences.",
+        "rating": 1.4
+    },
+    "Cheeseburger": {
+        "reason": "High-protein beef but contains wheat flour buns, making it high-carb.",
+        "rating": 0.8
+    },
+    "Fried Chicken": {
+        "reason": "High in protein but fried and contains cream, slightly indulgent.",
+        "rating": 1.3
+    },
+    "Mac and Cheese": {
+        "reason": "High-carb pasta dish, not suitable for preferences.",
+        "rating": 0.4
+    },
+    "Apple Pie": {
+        "reason": "High in sugar and carbs, conflicts with dietary preferences.",
+        "rating": 0.35
+    },
+    "Marinated Pork Tacos": {
+        "reason": "Contains pork, which is protein-rich, but tortillas add carbs.",
+        "rating": 0.9
+    },
+    "Stuffed Poblano Chiles": {
+        "reason": "Contains cream and pork but peppers are low-carb, making it moderately suitable.",
+        "rating": 1.2
+    },
+    "Guacamole": {
+        "reason": "Low-carb and healthy, but not a substantial meal on its own.",
+        "rating": 1.15
+    },
+    "Pozole": {
+        "reason": "Contains pork, which is protein-rich, but hominy adds carbs.",
+        "rating": 1.0
+    },
+    "Kimchi": {
+        "reason": "Spicy fermented dish, but not substantial or aligned with mild spice preferences.",
+        "rating": 0.75
+    },
+    "Mixed Rice Bowl": {
+        "reason": "Contains rice and vegetables, but lacks alignment with low-carb preferences.",
+        "rating": 0.7
+    },
+    "Grilled Marinated Beef": {
+        "reason": "High-protein beef dish aligns well with preferences.",
+        "rating": 1.65
+    },
+    "Stir-Fried Noodles": {
+        "reason": "Contains noodles, making it high-carb and not suitable for preferences.",
+        "rating": 0.6
+    },
+    "Borscht": {
+        "reason": "Vegetable-based soup but lacks protein and doesn't align fully with preferences.",
+        "rating": 0.9
+    },
+    "Pelmeni": {
+        "reason": "Contains wheat flour, making it high-carb and unsuitable for preferences.",
+        "rating": 0.5
+    },
+    "Beef Stroganoff": {
+        "reason": "Protein-rich and creamy but may contain noodles or rice as a base.",
+        "rating": 1.2
+    },
+    "Potato Salad": {
+        "reason": "High-carb due to potatoes, conflicts with dietary preferences.",
+        "rating": 0.6
+    }
+}

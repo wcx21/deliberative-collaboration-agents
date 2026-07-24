@@ -1,0 +1,209 @@
+{
+  "Scout campsite location (safe and sheltered)": {
+    "description": "Survey potential campsite locations to identify safe, sheltered spots protected from weather and hazards. This critical task ensures the team's safety and comfort for the night.",
+    "base_value": {
+      "mean": 12,
+      "std": 2.2
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 3,
+      "Physical energy": 2,
+      "Risk tolerance": 1
+    },
+    "public_resource_requirements": {
+      "Tools": 1
+    }
+  },
+  "Set up shelter (tent/tarp) and secure it": {
+    "description": "Pitch and properly secure the shelter system to provide protection from elements. This essential task creates a safe base camp and requires attention to detail for weather resistance.",
+    "base_value": {
+      "mean": 11,
+      "std": 2
+    },
+    "private_resource_requirements": {
+      "Time": 3,
+      "Physical energy": 3,
+      "Mental energy": 1
+    },
+    "public_resource_requirements": {
+      "Tools": 2
+    }
+  },
+  "Collect and purify water": {
+    "description": "Gather water from available sources and treat it to make it safe for consumption. This survival-critical task ensures the team has adequate hydration and prevents waterborne illness.",
+    "base_value": {
+      "mean": 14,
+      "std": 2.5
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Physical energy": 2,
+      "Mental energy": 2
+    },
+    "public_resource_requirements": {
+      "Tools": 1,
+      "Fuel": 1
+    }
+  },
+  "Plan ration usage for the day": {
+    "description": "Calculate and allocate food supplies to ensure adequate nutrition throughout the journey. This planning task prevents resource depletion and maintains team energy levels.",
+    "base_value": {
+      "mean": 10,
+      "std": 2.2
+    },
+    "private_resource_requirements": {
+      "Time": 1,
+      "Mental energy": 3
+    },
+    "public_resource_requirements": {}
+  },
+  "Gather firewood (sufficient quantity)": {
+    "description": "Collect appropriate firewood in adequate amounts for cooking and warmth. This physical task requires identifying suitable materials and transporting them to camp.",
+    "base_value": {
+      "mean": 8,
+      "std": 1.5
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Physical energy": 3
+    },
+    "public_resource_requirements": {
+      "Tools": 1
+    }
+  },
+  "Start and maintain a safe fire": {
+    "description": "Build and tend a controlled fire for cooking and warmth while minimizing wildfire risk. This skill-based task requires knowledge of fire safety and proper technique.",
+    "base_value": {
+      "mean": 9,
+      "std": 1.8
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2,
+      "Physical energy": 1
+    },
+    "public_resource_requirements": {
+      "Fuel": 2,
+      "Tools": 1
+    }
+  },
+  "Prepare a hot meal": {
+    "description": "Cook a nutritious meal using available supplies and camp cooking equipment. This task provides essential nutrition and boosts team morale.",
+    "base_value": {
+      "mean": 10,
+      "std": 1.5
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 1,
+      "Physical energy": 1
+    },
+    "public_resource_requirements": {
+      "Food": 3,
+      "Water": 2,
+      "Fuel": 2,
+      "Tools": 1
+    }
+  },
+  "Check surroundings for hazards and safe routes": {
+    "description": "Assess the immediate area for potential dangers and identify safe pathways. This safety task prevents accidents and informs navigation decisions.",
+    "base_value": {
+      "mean": 10,
+      "std": 2.2
+    },
+    "private_resource_requirements": {
+      "Time": 1,
+      "Mental energy": 3,
+      "Risk tolerance": 2
+    },
+    "public_resource_requirements": {
+      "Tools": 1
+    }
+  },
+  "Navigate next route segment (map/compass)": {
+    "description": "Use navigation tools to determine the correct path for the next leg of the journey. This planning task ensures the team stays on course and reaches objectives efficiently.",
+    "base_value": {
+      "mean": 10,
+      "std": 2
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 3
+    },
+    "public_resource_requirements": {
+      "Tools": 2,
+      "Battery power": 1
+    }
+  },
+  "Repair minor gear damage (tape/cordage patch)": {
+    "description": "Fix small equipment failures using available repair materials. This maintenance task prevents minor issues from becoming major problems and extends gear lifespan.",
+    "base_value": {
+      "mean": 7,
+      "std": 1.5
+    },
+    "private_resource_requirements": {
+      "Time": 1,
+      "Mental energy": 2,
+      "Physical energy": 1
+    },
+    "public_resource_requirements": {
+      "Tools": 1
+    }
+  },
+  "Organize camp layout and redistribute loads": {
+    "description": "Arrange camp efficiently and adjust pack weights to optimize comfort and mobility. This organizational task improves camp functionality and prevents overloading individuals.",
+    "base_value": {
+      "mean": 5,
+      "std": 1
+    },
+    "private_resource_requirements": {
+      "Time": 1,
+      "Mental energy": 2,
+      "Physical energy": 1
+    },
+    "public_resource_requirements": {}
+  },
+  "Night watch short shift / camp security check": {
+    "description": "Monitor the campsite during designated hours to ensure safety and security. This vigilance task protects the team and equipment during vulnerable nighttime hours.",
+    "base_value": {
+      "mean": 6,
+      "std": 1.2
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Mental energy": 2
+    },
+    "public_resource_requirements": {
+      "Battery power": 1
+    }
+  },
+  "Weather assessment and contingency plan": {
+    "description": "Evaluate current and forecasted weather conditions and develop backup plans. This planning task enables proactive response to changing conditions and prevents dangerous situations.",
+    "base_value": {
+      "mean": 9,
+      "std": 2
+    },
+    "private_resource_requirements": {
+      "Time": 1,
+      "Mental energy": 3
+    },
+    "public_resource_requirements": {
+      "Battery power": 1
+    }
+  },
+  "Pack out waste and leave-no-trace cleanup": {
+    "description": "Remove all traces of the campsite and pack out all waste materials. This environmental responsibility task preserves wilderness areas and follows ethical outdoor practices.",
+    "base_value": {
+      "mean": 5,
+      "std": 1
+    },
+    "private_resource_requirements": {
+      "Time": 2,
+      "Physical energy": 1,
+      "Mental energy": 1
+    },
+    "public_resource_requirements": {}
+  }
+}
+
